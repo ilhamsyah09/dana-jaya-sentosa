@@ -7,6 +7,10 @@
     max-width: 1725px;
 }
 
+.left-title {
+    flex-basis: 200px;
+}
+
 /* home1 main-banner start */
 section.home1.main-banner {
     background-image: url(../images/img-banner.jpg);
@@ -137,6 +141,7 @@ section.home2.dana-mudah .inside-content  .item a.nav-link {
 /* home3 simpanan start */
 section.home3.simpanan {
     padding-top: 200px;
+    padding-bottom: 51px;
 }
 section.home3.simpanan .inside-content  .left-title h3 {
     font-family: 'Noto Sans', sans-serif;
@@ -154,7 +159,7 @@ section.home3.simpanan .inside-content {
 }
 section.home3.simpanan .inside-content  .right-content.orange-bg {
     background-color: #ba673b;
-    padding: 88px 74px;
+    padding: 88px 78px;
     max-width: 1377px;
 }
 section.home3.simpanan .inside-content  .right-content .description h3 {
@@ -169,21 +174,36 @@ section.home3.simpanan .inside-content  .list-metode {
     padding-top: 87px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
+    padding-right: 8%;
+    padding-left: 10.6%;
 }
-section.home3.simpanan .inside-content  .list-metode .box-content .right-caption {
-    /* padding-top: 3px; */
+section.home3.simpanan .inside-content  .list-metode .box-content {
+    justify-content: end;
+    padding: 40px 0;
+    /* gap: 71px; */
+}
+section.home3.simpanan .inside-content  .list-metode .box-content:first-of-type {
+    padding-top: 0;
+}
+section.home3.simpanan .inside-content .wrapper-list {
+    padding-bottom: 36px;
+    padding-left: 8.8%;
+}
+section.home3.simpanan .inside-content  .list-metode .box-content .right-caption { 
+    /* flex-basis: 684px; */
 }
 section.home3.simpanan .inside-content  .list-metode .box-content .right-caption h3 {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 29px;
+    font-size: 26px;
     font-weight: 400;
+    line-height: 1.4;
     color: #fff;
     margin-bottom: 1px;
 }
 section.home3.simpanan .inside-content  .list-metode .box-content .right-caption p {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 21px;
+    font-size: 20px;
     font-weight: 400;
     color: #fff;
     margin-bottom: 12px;
@@ -198,9 +218,163 @@ section.home3.simpanan .inside-content  .list-metode .box-content .right-caption
 /* home3 simpanan end */
 
 /* home4 tentang kami start */
-
+section.home4.tentang-kami {
+    padding-top: 200px;
+    padding-bottom: 190px;
+}
+section.home4.tentang-kami .inside-content  .left-title h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #0b162e;
+    margin-bottom: 0;
+}
+section.home4.tentang-kami .outer-content .inside-content {
+    padding-right: 23px;
+}
+section.home4.tentang-kami .inside-content .right-content.gray-bg {
+    background-color: #e0e0e7;
+    padding: 88px 78px;
+    padding-right: 60px;
+    max-width: 1377px;
+    position: relative;
+}
+section.home4.tentang-kami .inside-content .right-content .description h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: black;
+    margin-bottom: 0;
+}
+section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
+    position: relative;
+    height: auto;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-left: 45px;
+}
+section.home4.tentang-kami .inside-content .right-content .img {
+    position: absolute;
+    bottom: -123px;
+    left: -100px;
+}
+section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text {
+    flex: 0 0 60%;
+    z-index: 10;
+}
+section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: black;
+    margin-bottom: 35px;
+}
+section.home4.tentang-kami .inside-content .right-content .wrapper-small-description a.nav-link {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    gap: 15px;
+    padding-top: 11px;
+    padding-bottom: 15px;
+}
 /* home4 tentang kami end */
 
 /* home5 pelanggan kami start */
-
+section.home5.pelanggan-kami {
+    padding-top: 200px;
+    padding-bottom: 97px;
+}
+section.home5.pelanggan-kami .inside-content .left-title h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #0b162e;
+    margin-bottom: 0;
+}
+section.home5.pelanggan-kami .list-logo {
+    flex-wrap: wrap;
+    background-color: #e8e8e8;
+    padding: 88px 44px 73px 44px;
+    max-width: 1377px;
+}
 /* home5 pelanggan kami end */
+
+/* home6 contact us start */
+section.home6.contact-us {
+    padding-bottom: 192px;
+}
+section.home6.contact-us .inside-content .description {
+    padding-bottom: 77px;
+}
+section.home6.contact-us .inside-content .description h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: black;
+    margin-bottom: 0;
+}
+section.home6.contact-us .outer-content {
+    display: flex;
+    justify-content: end;
+}
+section.home6.contact-us .outer-content .inside-content {
+    max-width: 1377px;
+    flex-direction: column;
+    padding-right: 172px;
+}
+section.home6.contact-us .inside-content .btn-contact {
+    width: max-content;
+}
+section.home6.contact-us .inside-content .btn-contact a.nav-link {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    gap: 15px;
+    border: 2px black solid;
+    border-radius: 30px;
+    width: 312px;
+    height: 44px;
+}
+/* home6 contact us end */
+
+/* footer start */
+footer.footer {
+    background-color: #003d36;
+    padding-top: 74px;
+    padding-bottom: 80px;
+}
+footer.footer .footer-content-top .list-nav .item {
+    flex-basis: 359px;
+    border-top: solid white 4px;
+
+}
+footer.footer .footer-content-top .list-nav .item h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    
+}
+footer.footer .footer-content-top .list-nav .item .mail {
+    padding-top: 43px;
+}
+footer.footer .footer-content-top .list-nav .item .mail p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #008f4a;
+    margin-bottom: 0;
+}
+footer.footer .footer-content-top .list-nav .item .phone p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    margin-bottom: 0;
+}
+/* footer end */
