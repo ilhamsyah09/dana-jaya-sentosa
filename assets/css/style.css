@@ -4,7 +4,7 @@
 }
 
 .custom.container {
-    max-width: 1725px;
+    max-width: 1700px;
 }
 
 .left-title {
@@ -40,7 +40,7 @@ header nav .offcanvas-body .navbar-nav.contact-wa a.nav-link {
 header.header {
     position: fixed;
     overflow: hidden;
-    z-index: 10;
+    z-index: 99;
     width: 100%;
 }
 header nav button.navbar-toggler:focus {
@@ -55,7 +55,7 @@ header nav button.navbar-toggler i {
     position: sticky;
     overflow: hidden;
     width: 100%;
-    z-index: 10;
+    z-index: 99;
     background-color: #003d36;
     padding-top: 8px !important;
 }
@@ -63,16 +63,29 @@ header nav button.navbar-toggler i {
 
 /* home1 main-banner start */
 section.home1.main-banner {
-    background-image: url(../images/img-banner.jpg);
+    /* background-image: url(../images/img-banner.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    width: auto;
     height: 100vh;
-    /* height: 984px; */
     display: flex;
-    position: relative;
+    position: relative; */
+    width: auto;
+    /* height: 984px; */
+    
 } 
+section.home1.carousel.main-banner .carousel-item {
+    position: relative;
+}
+section.home1.carousel.main-banner .carousel-item .view-caption {
+    position: absolute;
+    /* top: 35%; */
+    left: 0;
+    bottom: 42%;
+    display: flex;
+    width: 100%;
+
+}
 section.home1.main-banner .custom.container {
     margin: auto;
 }
@@ -115,8 +128,8 @@ section.home1.main-banner .inside-content .left-caption .btn-wrapper .btn.orange
 section.home1.main-banner .tag-name {
     position: absolute;
     bottom: 26px;
-    left: 49%;
-    transform: translateX(-80%);
+    left: 39%;
+    /* transform: translateX(-80%); */
 }
 section.home1.main-banner .tag-name h3 {
     font-family: 'Noto Sans', sans-serif;
@@ -300,13 +313,13 @@ section.home4.tentang-kami .inside-content .right-content .description h3 {
 section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
     position: relative;
     height: auto;
-    padding-top: 62px;
+    padding-top: 58px;
     padding-right: 30px;
-    padding-left: 45px;
+    padding-left: 55px;
 }
 section.home4.tentang-kami .inside-content .right-content .img {
     position: absolute;
-    bottom: -130px;
+    bottom: -134px;
     left: -100px;
 }
 section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text {

@@ -2,27 +2,88 @@
 <div class="wrapper">
     <?php include 'include/_header.php' ?>
     <div class="main-content">
-        <section class="home1 main-banner">
-            <div class="custom container">
-                <div class="inside-content d-flex align-items-center">
-                    <div class="left-caption">
-                        <h3>Berani Untuk Sukses!</h3>
-                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                        <div class="btn-wrapper d-flex align-items-center">
-                            <button class="btn green" type="button">
-                                AJUKAN PINJAMAN USAHA
-                            </button>
-                            <button class="btn orange" type="button">
-                                HUBUNGI KAMI
-                            </button>
+        <section class="home1 carousel main-banner">
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                            <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
+                            <div class="view-caption">
+                                <div class="custom container">
+                                    <div class="inside-content d-flex align-items-center">
+                                        <div class="left-caption">
+                                            <h3>Berani Untuk Sukses!</h3>
+                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                            <div class="btn-wrapper d-flex align-items-center">
+                                                <button class="btn green" type="button">
+                                                    AJUKAN PINJAMAN USAHA
+                                                </button>
+                                                <button class="btn orange" type="button">
+                                                    HUBUNGI KAMI
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tag-name">
+                                <h3>Lidia Suwarga</h3>
+                                <p>Pottery Heads</p>
+                                <p>Pelanggan Dana Jaya Sentosa</p>
+                            </div>
                         </div>
+                        <div class="carousel-item">
+                            <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
+                            <div class="view-caption">
+                                <div class="custom container">
+                                    <div class="inside-content d-flex align-items-center">
+                                        <div class="left-caption">
+                                            <h3>Berani Untuk Sukses!</h3>
+                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                            <div class="btn-wrapper d-flex align-items-center">
+                                                <button class="btn green" type="button">
+                                                    AJUKAN PINJAMAN USAHA
+                                                </button>
+                                                <button class="btn orange" type="button">
+                                                    HUBUNGI KAMI
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tag-name">
+                                <h3>Lidia Suwarga</h3>
+                                <p>Pottery Heads</p>
+                                <p>Pelanggan Dana Jaya Sentosa</p>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
+                            <div class="view-caption">
+                                <div class="custom container">
+                                    <div class="inside-content d-flex align-items-center">
+                                        <div class="left-caption">
+                                            <h3>Berani Untuk Sukses!</h3>
+                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                            <div class="btn-wrapper d-flex align-items-center">
+                                                <button class="btn green" type="button">
+                                                    AJUKAN PINJAMAN USAHA
+                                                </button>
+                                                <button class="btn orange" type="button">
+                                                    HUBUNGI KAMI
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tag-name">
+                                <h3>Lidia Suwarga</h3>
+                                <p>Pottery Heads</p>
+                                <p>Pelanggan Dana Jaya Sentosa</p>
+                            </div>
                     </div>
                 </div>
-            </div>
-            <div class="tag-name">
-                <h3>Lidia Suwarga</h3>
-                <p>Pottery Heads</p>
-                <p>Pelanggan Dana Jaya Sentosa</p>
             </div>
         </section>
 
@@ -220,16 +281,36 @@
                             <h3>PELANGGAN KAMI</h3>
                         </div>
                         <div class="list-logo d-flex align-item-center justify-content-center">
-                            <img src="assets/images/logo1.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo2.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo3.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo4.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo5.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo6.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo7.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo8.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo9.jpg" class="img-fluid" alt="">
-                            <img src="assets/images/logo10.jpg" class="img-fluid" alt="">
+                            <div class="img">
+                                <img src="assets/images/logo1.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo2.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo3.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo4.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo5.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo6.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo7.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo8.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo9.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="img">
+                                <img src="assets/images/logo10.jpg" class="img-fluid" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
