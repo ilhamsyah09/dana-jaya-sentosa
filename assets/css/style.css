@@ -15,8 +15,14 @@
 header nav.navbar.navbar-expand-lg {
     padding-top: 49px;
 }
+header nav.navbar.navbar-expand-lg a.navbar-brand img {
+    height: 100%;
+}
+
 header nav .offcanvas-body {
     padding-bottom: 11px !important;
+    display: flex;
+    flex-direction: row;
 }
 header nav .offcanvas-body .nav-item a.nav-link {
     font-family: 'Noto Sans', sans-serif;
@@ -25,11 +31,24 @@ header nav .offcanvas-body .nav-item a.nav-link {
     color: white;
     padding: 8px 17px;
 }
+header nav .offcanvas-body .navbar-nav:first-of-type {
+    flex-wrap: wrap;
+}
+header nav .offcanvas-body .navbar-nav.contact-wa a.nav-link {
+    padding: 8px;
+}
 header.header {
     position: fixed;
     overflow: hidden;
     z-index: 10;
     width: 100%;
+}
+header nav button.navbar-toggler:focus {
+    border: none !important;
+    box-shadow: none;
+}
+header nav button.navbar-toggler i {
+    color: white;
 }
 
 .stiky-header {
@@ -281,13 +300,13 @@ section.home4.tentang-kami .inside-content .right-content .description h3 {
 section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
     position: relative;
     height: auto;
-    padding-top: 60px;
+    padding-top: 62px;
     padding-right: 30px;
     padding-left: 45px;
 }
 section.home4.tentang-kami .inside-content .right-content .img {
     position: absolute;
-    bottom: -123px;
+    bottom: -130px;
     left: -100px;
 }
 section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text {

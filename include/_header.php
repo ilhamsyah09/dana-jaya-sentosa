@@ -2,10 +2,11 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="custom container">
                     <a href="#" class="navbar-brand">
-                        <img src="assets/images/main-logo.png" class="img-fluid" alt="">
+                        <img src="assets/images/main-logo.png" class="img-fluid d-none d-md-block" alt="">
+                        <img src="assets/images/logo-mobile.png" class="img-fluid d-block d-md-none" alt="">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
+                        <i class="fa-solid fa-bars fa-2xl"></i>
                     </button>
                     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                         <div class="offcanvas-header">
@@ -28,7 +29,9 @@
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">HUBUNGI KAMI</a>
                                 </li>
-                                <li class="nav-item">
+                            </ul>
+                            <ul class="navbar-nav  contact-wa">
+                            <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         <img src="assets/images/wa-logo.png" class="img-fluid" alt="">
                                     </a>
