@@ -1,7 +1,7 @@
 <footer class="footer">
             <div class="custom container">
                 <div class="footer-content-top">
-                    <div class="list-nav d-flex align-items-start">
+                    <div class="list-nav d-flex align-items-start flex-wrap">
                         <div class="item">
                             <h3>PT. DANA JAYA SENTOSA</h3>
                             <div class="mail">
@@ -38,12 +38,12 @@
                     </div>
                 </div>
                 <div class="footer-content-bottom">
-                    <div class="inside-content d-flex align-items-center justify-content-between">
+                    <div class="inside-content d-flex align-items-center justify-content-between flex-wrap gap-3">
                         <div class="main-logo">
                             <img src="assets/images/logo-footer.png" class="img-fluid" alt="">
                         </div>
                         <div class="copyright">
-                            <p>©COPYRIGHT PT. DANA JAYA SENTOSA
+                            <p>© COPYRIGHT PT. DANA JAYA SENTOSA
                                 <br> All right reserved.
                             </p>
                         </div>

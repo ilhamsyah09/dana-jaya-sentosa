@@ -3,14 +3,32 @@
     <?php include 'include/_header.php' ?>
     <div class="main-content">
         <section class="home1 carousel main-banner">
-            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                             <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
-                            <div class="view-caption">
+                            <div class="view-caption d-none d-md-block">
                                 <div class="custom container">
                                     <div class="inside-content d-flex align-items-center">
                                         <div class="left-caption">
+                                            <h3>Berani Untuk Sukses!</h3>
+                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                            <div class="btn-wrapper d-flex align-items-center">
+                                                <button class="btn green" type="button">
+                                                    AJUKAN PINJAMAN USAHA
+                                                </button>
+                                                <button class="btn orange" type="button">
+                                                    HUBUNGI KAMI
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="caption-mobile d-block d-md-none">
+                                <div class="custom container">
+                                    <div class="inside-content d-flex align-items-center">
+                                    <div class="left-caption">
                                             <h3>Berani Untuk Sukses!</h3>
                                                 <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                             <div class="btn-wrapper d-flex align-items-center">
@@ -33,10 +51,28 @@
                         </div>
                         <div class="carousel-item">
                             <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
-                            <div class="view-caption">
+                            <div class="view-caption d-none d-md-block">
                                 <div class="custom container">
                                     <div class="inside-content d-flex align-items-center">
                                         <div class="left-caption">
+                                            <h3>Berani Untuk Sukses!</h3>
+                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                            <div class="btn-wrapper d-flex align-items-center">
+                                                <button class="btn green" type="button">
+                                                    AJUKAN PINJAMAN USAHA
+                                                </button>
+                                                <button class="btn orange" type="button">
+                                                    HUBUNGI KAMI
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="caption-mobile d-block d-md-none">
+                                <div class="custom container">
+                                    <div class="inside-content d-flex align-items-center">
+                                    <div class="left-caption">
                                             <h3>Berani Untuk Sukses!</h3>
                                                 <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                             <div class="btn-wrapper d-flex align-items-center">
@@ -59,10 +95,28 @@
                         </div>
                         <div class="carousel-item">
                             <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
-                            <div class="view-caption">
+                            <div class="view-caption d-none d-md-block">
                                 <div class="custom container">
                                     <div class="inside-content d-flex align-items-center">
                                         <div class="left-caption">
+                                            <h3>Berani Untuk Sukses!</h3>
+                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                            <div class="btn-wrapper d-flex align-items-center">
+                                                <button class="btn green" type="button">
+                                                    AJUKAN PINJAMAN USAHA
+                                                </button>
+                                                <button class="btn orange" type="button">
+                                                    HUBUNGI KAMI
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="caption-mobile d-block d-md-none">
+                                <div class="custom container">
+                                    <div class="inside-content d-flex align-items-center">
+                                    <div class="left-caption">
                                             <h3>Berani Untuk Sukses!</h3>
                                                 <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                             <div class="btn-wrapper d-flex align-items-center">
@@ -89,12 +143,12 @@
 
         <section class="home2 dana-mudah">
             <div class="custom container">
-                <div class="inside-content d-flex align-items-start justify-content-between">
+                <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
                     <div class="left-title">
                         <h3>DANA MUDAH</h3>
                     </div>
                     <div class="list-credit">
-                        <div class="row">
+                        <div class="row g-4">
                             <div class="col-sm-12 col-md-6 col-lg-4">
                                 <div class="item">
                                     <img src="assets/images/img-dana-mudah1.jpg" class="img-fluid" alt="">
@@ -143,7 +197,7 @@
         <section class="home3 simpanan">
             <div class="custom container">
                 <div class="outer-content">
-                    <div class="inside-content d-flex align-items-start justify-content-between">
+                    <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
                         <div class="left-title">
                             <h3>SIMPANAN PASTI UNTUNG</h3>
                         </div>
@@ -242,7 +296,7 @@
         <section class="home4 tentang-kami">
             <div class="custom container">
                 <div class="outer-content">
-                    <div class="inside-content d-flex align-items-start justify-content-between">
+                    <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
                         <div class="left-title">
                             <h3>TENTANG KAMI</h3>
                         </div>
@@ -251,9 +305,6 @@
                                 <h3>Dana Jaya Sentosa adalah rekan anda untuk Koperasi Simpan Pinjam yang nyaman, personal dan memahami anda. Berdiri di tahun 2011 berawal dari sebuah koperasi karyawan perusahaan WDX kini telah mengelola dana hingga cakupan nasional, memberi kesempatan kepada seluruh rakyat Indonesia untuk mewujudkan cita cita dan mimpi untuk kesejahteraan lebih baik. </h3>
                             </div>
                             <div class="wrapper-small-description d-flex justify-content-end">
-                                <!-- <div class="img">
-                                    <img src="assets/images/img-tentang-kami.jpg" class="img-fluid" alt="">
-                                </div> -->
                                 <div class="text">
                                     <p>Dana Jaya Sentosa telah membuktikan sepak terjang kesuksesan dalam pengelolaan dana masyarakat kecil, mewujudkan impian mulai dari berangkat umrah, hingga memampukan masyarakat untuk mendirikan usaha kecil mikro hingga usaha kecil menengah.</p>
                                     <p>Pengetahuan dan kepedulian Dana Jaya Sentosa terhadap masyarakat kecil ini lah yang menjadi dasar utama dalam merancang program simpanan maupun pinjaman yang menarik dan berorientasi kepada kemandirian pelanggan menuju kesuksesan.</p>
@@ -263,8 +314,11 @@
                                         PELAJARI LEBIH LANJUT
                                     </a>
                                 </div>
+                                <div class="img-mobile">
+                                    <img src="assets/images/img-tentang-kami.jpg" class="img-fluid d-lg-none" alt="">
+                                </div>
                             </div>
-                            <div class="img">
+                            <div class="img desktop">
                                 <img src="assets/images/img-tentang-kami.jpg" class="img-fluid" alt="">
                             </div>
                         </div>
@@ -276,7 +330,7 @@
         <section class="home5 pelanggan-kami">
             <div class="custom container">
                 <div class="outer-content">
-                    <div class="inside-content d-flex align-items-start justify-content-between">
+                    <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
                         <div class="left-title">
                             <h3>PELANGGAN KAMI</h3>
                         </div>

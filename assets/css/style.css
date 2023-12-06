@@ -15,6 +15,9 @@
 header nav.navbar.navbar-expand-lg {
     padding-top: 49px;
 }
+header nav.navbar.navbar-expand-lg.stiky-header a.navbar-brand {
+    height: 80px;
+}
 header nav.navbar.navbar-expand-lg a.navbar-brand img {
     height: 100%;
 }
@@ -43,25 +46,33 @@ header.header {
     z-index: 99;
     width: 100%;
 }
-header nav button.navbar-toggler:focus {
+/* header nav button.navbar-toggler:focus {
     border: none !important;
     box-shadow: none;
 }
 header nav button.navbar-toggler i {
     color: white;
-}
+} */
 
 .stiky-header {
     position: sticky;
     overflow: hidden;
     width: 100%;
     z-index: 99;
+    /* padding-bottom: 20px !important; */
     background-color: #003d36;
     padding-top: 8px !important;
+}
+header nav.navbar-expand-lg.navbar-dark.bg-dark {
+    background-color: transparent !important;
+}
+header nav.navbar-expand-lg.stiky-header.navbar-dark.bg-dark {
+    background-color: #003d36 !important;
 }
 /* header emd */
 
 /* home1 main-banner start */
+
 section.home1.main-banner {
     /* background-image: url(../images/img-banner.jpg);
     background-position: center;
@@ -79,9 +90,9 @@ section.home1.carousel.main-banner .carousel-item {
 }
 section.home1.carousel.main-banner .carousel-item .view-caption {
     position: absolute;
-    /* top: 35%; */
+    top: 35%;
     left: 0;
-    bottom: 42%;
+    /* bottom: 42%; */
     display: flex;
     width: 100%;
 
@@ -94,15 +105,15 @@ section.home1.main-banner .inside-content .left-caption {
 }
 section.home1.main-banner .inside-content .left-caption h3 {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 40px;
+    font-size: 42px;
     font-weight: 700;
     color: white;
     margin-bottom: 0;
 }
 section.home1.main-banner .inside-content .left-caption p {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 35px;
-    font-weight: 300;
+    font-size: 31px;
+    font-weight: 400;
     line-height: 1.3;
     color: white;
     margin-bottom: 34px;
@@ -224,6 +235,7 @@ section.home3.simpanan .inside-content  .right-content.orange-bg {
     background-color: #ba673b;
     padding: 88px 78px;
     max-width: 1377px;
+    width: 100%;
 }
 section.home3.simpanan .inside-content  .right-content .description h3 {
     font-family: 'Noto Sans', sans-serif;
@@ -301,6 +313,7 @@ section.home4.tentang-kami .inside-content .right-content.gray-bg {
     padding-right: 60px;
     max-width: 1377px;
     position: relative;
+    width: 100%;
 }
 section.home4.tentang-kami .inside-content .right-content .description h3 {
     font-family: 'Noto Sans', sans-serif;
@@ -362,6 +375,7 @@ section.home5.pelanggan-kami .list-logo {
     background-color: #e8e8e8;
     padding: 88px 44px 73px 44px;
     max-width: 1377px;
+    width: 100%;
 }
 /* home5 pelanggan kami end */
 
@@ -496,3 +510,368 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     margin-bottom: 0;
 }
 /* footer end */
+
+@media (max-width: 1450px) {
+    section.home1.main-banner .inside-content .left-caption h3 {
+        font-size: 38px;
+    }
+    section.home1.main-banner .inside-content .left-caption p {
+        font-size: 27px;
+    }
+    /* home1 main-banner end */
+
+    section.home3.simpanan .inside-content .right-content .description h3 {
+        font-size: 24px;
+    }
+    /* home3 simpanan end */
+
+    section.home4.tentang-kami .inside-content .right-content .description h3 {
+        font-size: 24px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .img {
+        width: 574px;
+    }
+    /* home4 tentang kami end */
+
+    section.home6.contact-us .inside-content .description h3 {
+        font-size: 30px;
+    }
+    /* home6 contact us end */
+}
+
+@media (max-width: 1366px) {
+    section.home4.tentang-kami .inside-content .right-content .img {
+        width: 520px;
+    }
+}
+
+@media (max-width: 1280px) {
+    section.home1.main-banner .inside-content .left-caption h3 {
+        font-size: 34px;
+    }
+    /* home1 main-banner end */
+
+    section.home2.dana-mudah .inside-content .item h3 {
+        font-size: 22px;
+        margin-bottom: 4px;
+    }
+    section.home2.dana-mudah .inside-content .item p {
+        margin-bottom: 12px;
+        font-size: 16px;
+        line-height: 1.2;
+    }
+    section.home2.dana-mudah .inside-content .item .text-caption {
+        left: 20px;
+        right: 20px;
+        bottom: 20px;
+    }
+    section.home2.dana-mudah .inside-content .item a.nav-link {
+        font-size: 16px;
+    }
+    /* home2 dana mudah end */
+
+    section.home3.simpanan .inside-content .list-metode .box-content .right-caption h3 {
+        font-size: 24px;
+    }
+    section.home3.simpanan .inside-content .list-metode .box-content .right-caption p {
+        font-size: 17px;
+    }
+    /* home3 simpanan end */
+
+    section.home4.tentang-kami .inside-content .right-content .img {
+        width: 460px;
+    }
+    /* home4 tentang kami */
+}
+
+@media (max-width: 1024px) {
+    section.home2.dana-mudah .inside-content .item a.nav-link {
+        font-size: 14px;
+    }
+    section.home2.dana-mudah .inside-content .item p {
+        font-size: 15px;
+    }
+    /* home2 dana mudah end */
+
+    section.home3.simpanan .inside-content .list-metode .box-content .right-caption a.nav-link {
+        font-size: 16px;
+    }
+    /* home3 simpanan end */
+
+    section.home4.tentang-kami .inside-content .right-content .img {
+        width: 420px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description a.nav-link {
+        font-size: 16px;
+    }
+    /* home4 tentang kami end */
+}
+
+@media (max-width: 991px) {
+    .left-title {
+        flex-basis: 60px;
+    }
+
+
+    header nav.navbar.navbar-expand-lg {
+        padding: 8px 0;
+    }
+    header nav.navbar.navbar-expand-lg a.navbar-brand img {
+        height: 80px;
+    }
+    .stiky-header {
+        padding-bottom: 20px !important;
+    }
+    header nav .offcanvas.offcanvas-end.text-bg-dark.show {
+        background-color: #003d36 !important;
+    }
+    header nav .offcanvas-body .nav-item a.nav-link {
+        color: #fff;
+    }
+    header nav .offcanvas-body .navbar-nav:first-of-type {
+        justify-content: flex-start !important;
+        align-items: flex-start !important;
+        flex-grow: unset !important;
+    }
+    header nav .offcanvas-body {
+        flex-direction: column !important;
+    }
+    header nav .offcanvas {
+        transition: transform 0.3s ease-in-out ;
+    }
+    
+    /* header end */
+
+    section.home1.main-banner .tag-name {
+        text-align: end;
+        left: auto;
+        right: 20px;
+    }
+    /* home1 main-banner end */
+
+    section.home3.simpanan .inside-content .wrapper-list {
+        padding-left: 0;
+    }
+    section.home3.simpanan .inside-content .list-metode {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    section.home3.simpanan .inside-content .right-content.orange-bg {
+        padding: 50px 42px;
+    }
+    section.home3.simpanan .outer-content {
+        padding-right: 0;
+    }
+    section.home3.simpanan .inside-content .right-content .description h3 {
+        font-size: 21px;
+    }
+    section.home3.simpanan .inside-content .list-metode {
+        padding-top: 58px;
+    }
+    section.home3.simpanan .inside-content .list-metode .box-content {
+        padding: 24px 0;
+    }
+    /* home3 simpanan end */
+
+    section.home4.tentang-kami .inside-content .right-content .img.desktop img {
+        display: none;
+    }
+    section.home4.tentang-kami .inside-content .right-content .img-mobile {
+        display: block;
+        text-align: left;
+        padding-left: 40px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
+        flex-direction: column;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    section.home4.tentang-kami .inside-content .right-content.gray-bg {
+        padding: 66px 0;
+        padding-bottom: 0;
+    }
+    section.home4.tentang-kami .inside-content .right-content.gray-bg .description {
+        padding: 0 40px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text {
+        padding: 0 40px;
+    }
+    section.home4.tentang-kami .outer-content .inside-content {
+        padding-right: 0;
+    }
+    section.home4.tentang-kami .inside-content .right-content .description h3 {
+        font-size: 21px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text p {
+        font-size: 19px;
+        margin-bottom: 26px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
+        padding-top: 38px;
+    }
+    /* home4 tentang kami end */
+
+    section.home6.contact-us .outer-content .inside-content {
+        padding-right: 0;
+    }
+    section.home6.contact-us .inside-content .description h3 {
+        font-size: 25px;
+    }
+    /* home6 contact us end */
+
+    footer.footer .footer-content-top .list-nav {
+        /* gap: 40px; */
+        justify-content: space-between;
+    }
+    footer.footer .footer-content-top .list-nav .item {
+        flex-basis: auto;
+    }
+    footer.footer .footer-content-bottom .inside-content .main-logo {
+        padding-right: 0;
+    }
+    /* footer end */
+}
+
+@media (max-width: 767px) {
+    header nav.navbar.navbar-expand-lg a.navbar-brand img {
+        height: 46px;
+    }
+    header nav.navbar.navbar-expand-lg.stiky-header a.navbar-brand {
+        height: auto;
+    }
+    header nav.navbar-expand-lg.stiky-header.navbar-dark.bg-dark {
+        padding: 8px 0 !important;
+    }
+    /* header end */
+
+    section.home1.main-banner .caption-mobile {
+        background-color: #003d36;
+        padding: 30px 0;
+    }
+    section.home1.main-banner .caption-mobile .left-caption h3 {
+        font-size: 20px !important;
+    }
+    section.home1.main-banner .caption-mobile .left-caption p {
+        font-size: 14px !important;
+        margin-bottom: 10px !important;
+        width: auto !important;
+    }
+    section.home1.main-banner .inside-content .left-caption .btn-wrapper button {
+        width: 50% ;
+        height: 30px ;
+        font-size: 10px ;
+        padding: 0 20px;
+    }
+    section.home1.main-banner .tag-name {
+        position: absolute;
+        text-align: left;
+        left: 12px;
+        bottom: 48%;
+    }
+    section.home1.main-banner .tag-name h3 {
+        font-size: 16px;
+    }
+    section.home1.main-banner .tag-name p {
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 1.2;
+    }
+    section.home1.main-banner .inside-content .left-caption {
+        flex-basis: 100%;
+    }
+    /* home1 main-banner end */
+
+    
+    section.home2.dana-mudah .inside-content .item .text-caption {
+        left: 0;
+        right: 0;
+        max-width: 438px;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    /* home2 dana mudah */
+
+    section.home3.simpanan .inside-content .right-content.orange-bg {
+        padding: 30px 20px;
+    }
+    section.home3.simpanan .inside-content .right-content .description h3 {
+        font-size: 17px;
+    }
+    section.home3.simpanan .inside-content .list-metode .box-content .right-caption h3 {
+        font-size: 21px;
+    }
+    section.home3.simpanan .inside-content .list-metode .box-content .right-caption p {
+        font-size: 15px;
+    }
+    section.home3.simpanan .inside-content .list-metode .box-content .right-caption a.nav-link {
+        font-size: 14px;
+    }
+    section.home3.simpanan .inside-content .list-metode .box-content {
+        flex-direction: column;
+    }
+    section.home3.simpanan .inside-content .wrapper-list {
+        padding-bottom: 0;
+    }
+    /* home3 simpanan end */
+    
+    section.home4.tentang-kami .inside-content .right-content .description h3 {
+        font-size: 18px;
+    }
+    section.home4.tentang-kami .inside-content .right-content.gray-bg {
+        padding-top: 40px;
+    }
+    section.home4.tentang-kami .inside-content .right-content.gray-bg .description {
+        padding: 0 20px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text {
+        padding: 0 20px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .wrapper-small-description .text p {
+        font-size: 15px;
+        margin-bottom: 22px;
+    }
+    section.home4.tentang-kami .inside-content .right-content .img-mobile {
+        padding-left: 0;
+    }
+    /* home4 tentang kami end */
+
+    section.home6.contact-us .inside-content .description h3 {
+        font-size: 19px;
+    }
+    section.home6.contact-us .inside-content .btn-contact a.nav-link {
+        font-size: 16px;
+        width: 240px;
+        height: 38px;
+    }
+    section.home6.contact-us .inside-content .description {
+        padding-bottom: 42px;
+    }
+    /* home6 contact us end */
+    
+    footer.footer .footer-content-top .list-nav .item .nav-footer .nav-item a.nav-link {
+        font-size: 14px;
+    }
+    footer.footer .footer-content-top .list-nav .item {
+        border-top: solid white 2px;
+        padding-top: 18px;
+    }
+    footer.footer .footer-content-top .list-nav {
+        /* gap: 20px; */
+    }
+    footer.footer .footer-content-top .list-nav .item .mail {
+        padding-top: 26px;
+    }
+    footer.footer .footer-content-top .list-nav .item .address {
+        padding-top: 26px;
+    }
+    /* footer end */
+}
+
+/* home1 main-banner end */
+/* home2 dana mudah end */
+/* home3 simpanan end */
+/* home4 tentang kami end */
+/* home5 pelanggan kami end */
+/* home6 contact us end */
