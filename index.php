@@ -2,7 +2,7 @@
 <div class="wrapper">
     <?php include 'include/_header.php' ?>
     <div class="main-content">
-        <section class="home1 carousel main-banner">
+        <section class="home1 carousel main-banner" id="banner-carousel">
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -141,7 +141,7 @@
             </div>
         </section>
 
-        <section class="home2 dana-mudah">
+        <section class="home2 dana-mudah" id="dana-mudah">
             <div class="custom container">
                 <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
                     <div class="left-title">
@@ -194,7 +194,7 @@
             </div>
         </section>
 
-        <section class="home3 simpanan">
+        <section class="home3 simpanan" id="simpanan">
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
@@ -293,7 +293,7 @@
             </div>
         </section>
 
-        <section class="home4 tentang-kami">
+        <section class="home4 tentang-kami" id="tentang-kami">
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-items-start justify-content-between flex-column flex-lg-row">
@@ -371,7 +371,7 @@
             </div>
         </section>
 
-        <section class="home6 contact-us">
+        <section class="home6 contact-us" id="contact-us">
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">

@@ -11,6 +11,10 @@
     flex-basis: 200px;
 }
 
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
 /* header start */
 header nav.navbar.navbar-expand-lg {
     padding-top: 49px;
@@ -361,7 +365,7 @@ section.home4.tentang-kami .inside-content .right-content .wrapper-small-descrip
 /* home5 pelanggan kami start */
 section.home5.pelanggan-kami {
     padding-top: 200px;
-    padding-bottom: 97px;
+    padding-bottom: 17px;
 }
 section.home5.pelanggan-kami .inside-content .left-title h3 {
     font-family: 'Noto Sans', sans-serif;
@@ -382,6 +386,7 @@ section.home5.pelanggan-kami .list-logo {
 /* home6 contact us start */
 section.home6.contact-us {
     padding-bottom: 192px;
+    padding-top: 80px;
 }
 section.home6.contact-us .inside-content .description {
     padding-bottom: 77px;
@@ -585,6 +590,14 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
 }
 
 @media (max-width: 1024px) {
+    section.home2.dana-mudah {
+        padding-top: 86px;
+    }
+    /* home2 dana mudah */
+
+    section.home3.simpanan {
+        padding-top: 64px;
+    }
     section.home2.dana-mudah .inside-content .item a.nav-link {
         font-size: 14px;
     }
@@ -593,6 +606,9 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* home2 dana mudah end */
 
+    section.home4.tentang-kami {
+        padding-top: 64px;
+    }
     section.home3.simpanan .inside-content .list-metode .box-content .right-caption a.nav-link {
         font-size: 16px;
     }
@@ -605,6 +621,20 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
         font-size: 16px;
     }
     /* home4 tentang kami end */
+
+    section.home5.pelanggan-kami {
+        padding-top: 64px;
+    }
+    /* home5 pelanggan kami */
+
+    section.home6.contact-us {
+        padding-top: 46px;
+        padding-bottom: 84px;
+    }
+    section.home6.contact-us .inside-content .description {
+        padding-bottom: 42px;
+    }
+    /* home6 contact us */
 }
 
 @media (max-width: 991px) {
@@ -735,6 +765,11 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
 }
 
 @media (max-width: 767px) {
+    .left-title {
+        flex-basis: 42px;
+    }
+
+
     header nav.navbar.navbar-expand-lg a.navbar-brand img {
         height: 46px;
     }
@@ -746,6 +781,8 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* header end */
 
+
+    
     section.home1.main-banner .caption-mobile {
         background-color: #003d36;
         padding: 30px 0;
@@ -783,7 +820,10 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* home1 main-banner end */
 
-    
+    section.home2.dana-mudah {
+        padding-top: 42px;
+        padding-bottom: 64px;
+    }
     section.home2.dana-mudah .inside-content .item .text-caption {
         left: 0;
         right: 0;
@@ -793,6 +833,9 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* home2 dana mudah */
 
+    section.home3.simpanan {
+        padding-top: 0;
+    }
     section.home3.simpanan .inside-content .right-content.orange-bg {
         padding: 30px 20px;
     }
@@ -816,8 +859,12 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* home3 simpanan end */
     
+    section.home4.tentang-kami {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
     section.home4.tentang-kami .inside-content .right-content .description h3 {
-        font-size: 18px;
+        font-size: 17px;
     }
     section.home4.tentang-kami .inside-content .right-content.gray-bg {
         padding-top: 40px;
@@ -837,8 +884,17 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* home4 tentang kami end */
 
+    section.home5.pelanggan-kami .list-logo {
+        padding: 50px 44px;
+    }
+    /* home5 pelanggan kami */
+
+    section.home6.contact-us {
+        padding-bottom: 58px;
+        padding-top: 38px;
+    }
     section.home6.contact-us .inside-content .description h3 {
-        font-size: 19px;
+        font-size: 18px;
     }
     section.home6.contact-us .inside-content .btn-contact a.nav-link {
         font-size: 16px;
@@ -850,6 +906,13 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     /* home6 contact us end */
     
+    footer.footer {
+        padding-top: 54px;
+        padding-bottom: 60px;
+    }
+    footer.footer .footer-content-bottom {
+        padding-top: 56px;
+    }
     footer.footer .footer-content-top .list-nav .item .nav-footer .nav-item a.nav-link {
         font-size: 14px;
     }
@@ -858,7 +921,7 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
         padding-top: 18px;
     }
     footer.footer .footer-content-top .list-nav {
-        /* gap: 20px; */
+        gap: 28px;
     }
     footer.footer .footer-content-top .list-nav .item .mail {
         padding-top: 26px;

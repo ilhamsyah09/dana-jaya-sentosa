@@ -10,6 +10,15 @@
                 header.classList.remove('stiky-header');
             }
         })
+        
+        document.querySelectorAll('a[href="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelector(this.getAttibute("href")).scrollIntoView({
+                    behavior: "smooth"
+                });
+            });
+        });
     </script>
 </body>
 </html>
