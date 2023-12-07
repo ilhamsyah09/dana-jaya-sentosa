@@ -3,7 +3,7 @@
     <?php include 'include/_header.php' ?>
     <div class="main-content">
         <section class="home1 carousel main-banner" id="banner-carousel">
-            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="">
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                             <img src="assets/images/img-banner.jpg" class="d-block w-100" alt="...">
