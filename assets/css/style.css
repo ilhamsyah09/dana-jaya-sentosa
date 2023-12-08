@@ -640,7 +640,7 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
 
 @media (max-width: 991px) {
     .left-title {
-        flex-basis: 60px;
+        flex-basis: 60px !important;
     }
 
 

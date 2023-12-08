@@ -1,0 +1,15 @@
+section.inside_section_1.pg_dana_mudah .img-hero {
+    top: 20.5%;
+}
+section.inside_section_1.pg_dana_mudah.bg-dark-green {
+    padding-bottom: 128px;
+}
+section.inside_section_3.pg_simpanan .inside-content .card-content .box-caption {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+}
+section.inside_section_3.pg_simpanan .inside-content .card-content .box-caption .text-top {
+    padding-bottom: 87px;
+}
