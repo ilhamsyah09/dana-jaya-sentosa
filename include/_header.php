@@ -18,16 +18,16 @@
                         <div class="offcanvas-body">
                             <ul class="navbar-nav align-items-center justify-content-end flex-grow-1">
                                 <li class="nav-item">
-                                    <a href="#dana-mudah" class="nav-link">DANA MUDAH</a>
+                                    <a href="dana-mudah.php" class="nav-link">DANA MUDAH</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#simpanan" class="nav-link">SIMPANAN PASTI UNTUNG</a>
+                                    <a href="simpanan.php" class="nav-link">SIMPANAN PASTI UNTUNG</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#tentang-kami" class="nav-link">TENTANG KAMI</a>
+                                    <a href="about.php" class="nav-link">TENTANG KAMI</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#contact-us" class="nav-link">HUBUNGI KAMI</a>
+                                    <a href="contact-us" class="nav-link">HUBUNGI KAMI</a>
                                 </li>
                             </ul>
                             <ul class="navbar-nav  contact-wa">
