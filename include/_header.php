@@ -27,7 +27,7 @@
                                     <a href="about.php" class="nav-link">TENTANG KAMI</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact-us" class="nav-link">HUBUNGI KAMI</a>
+                                    <a href="contact.php" class="nav-link">HUBUNGI KAMI</a>
                                 </li>
                             </ul>
                             <ul class="navbar-nav  contact-wa">

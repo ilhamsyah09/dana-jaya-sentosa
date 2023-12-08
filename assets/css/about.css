@@ -185,6 +185,7 @@ section.inside_section_4 .inside-content {
 }
 section.inside_section_4 .outer-content {
     padding-right: 23px;
+    padding-bottom: 90px;
 }
 section.inside_section_4 .inside-content .list-kultur.right-content {
     background-color: #f3f3f5;

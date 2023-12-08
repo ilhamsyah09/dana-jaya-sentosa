@@ -122,6 +122,7 @@ section.inside_section_3 .outer-content.list_card_description {
     align-items: flex-start;
     flex-direction: column;
     padding-right: 0px;
+    padding-bottom: 90px;
 }
 section.inside_section_3 .inside-content {
     display: flex;

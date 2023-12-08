@@ -1,0 +1,9 @@
+section.inside_section_2.pg_contact.bg-dark-orange {
+    position: relative;
+}
+section.inside_section_2.pg_contact.bg-dark-orange .inside_contact_wrapper .city h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+}
