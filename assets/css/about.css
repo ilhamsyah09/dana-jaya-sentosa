@@ -1,0 +1,124 @@
+.wrapper,
+.middle_content {
+    overflow: hidden;
+}
+
+.custom.container {
+    max-width: 1700px;
+}
+
+.left-title {
+    flex-basis: 200px;
+}
+
+.left-title h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #0b162e;
+    margin-bottom: 0;
+}
+
+/* inside_section_3 pg_about start */
+section.inside_section_3.pg_about {
+    padding-top: 153px;
+    padding-bottom: 112px;
+}
+section.inside_section_3 .outer-content {
+    padding-right: 23px;
+}
+section.inside_section_3 .inside-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+section.inside_section_3 .inside-content .right-content {
+    background-color: #ba673b;
+    max-width: 1377px;
+    width: 100%;
+    padding: 109px 80px 105px 80px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+section.inside_section_3 .inside-content .right-content .visi {
+    flex: 0 0 47%;
+}
+section.inside_section_3 .inside-content .right-content .misi {
+    flex: 0 0 46%;
+}
+section.inside_section_3 .inside-content .right-content h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 43.14px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 51px;
+}
+section.inside_section_3 .inside-content .right-content .visi p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+section.inside_section_3 .inside-content .right-content .misi ul li {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding-bottom: 15px;
+}
+section.inside_section_3 .inside-content .right-content .misi ul {
+    padding-left: 1.5rem;
+}
+/* inside_section_3 pg_about end */
+
+/* inside_section$ pg_about start */
+
+section.inside_section_4.pg_about.bg-gray {
+    padding-top: 112px;
+}
+section.inside_section_4 .inside-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+section.inside_section_4 .outer-content {
+    padding-right: 23px;
+}
+section.inside_section_4 .inside-content .list-kultur.right-content {
+    background-color: #f3f3f5;
+    max-width: 1377px;
+    width: 100%;
+    padding: 97px 80px 129px 80px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 66px;
+}
+section.inside_section_4 .inside-content .list-kultur .item {
+    max-width: 533px;
+}
+section.inside_section_4 .inside-content .list-kultur .item .img {
+    text-align: center;
+    padding-bottom: 67px;
+}
+section.inside_section_4 .inside-content .list-kultur .item .box-caption h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 1px;
+    margin-bottom: 16px;
+}
+section.inside_section_4 .inside-content .list-kultur .item .box-caption li {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    line-height: 1.5;
+}
+section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
+    padding-left: 1.4rem;
+}
+/* inside_section$ pg_about end */

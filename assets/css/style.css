@@ -11,10 +11,10 @@
     flex-basis: 200px;
 }
 
-html {
+/* html {
     scroll-behavior: smooth;
     scroll-padding-top: 100px;
-}
+} */
 /* header start */
 header nav.navbar.navbar-expand-lg {
     padding-top: 49px;
@@ -43,6 +43,7 @@ header nav .offcanvas-body .navbar-nav:first-of-type {
 }
 header nav .offcanvas-body .navbar-nav.contact-wa a.nav-link {
     padding: 8px;
+    padding-left: 15px;
 }
 header.header {
     position: fixed;

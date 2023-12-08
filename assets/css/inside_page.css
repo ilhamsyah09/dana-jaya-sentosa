@@ -1,0 +1,181 @@
+.wrapper,
+.middle_content {
+    overflow: hidden;
+}
+
+.custom.container {
+    max-width: 1700px;
+}
+
+.left-title {
+    flex-basis: 200px;
+}
+
+.left-title h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #0b162e;
+    margin-bottom: 0;
+}
+
+/* inside_section_1 start */
+section.inside_section_1.bg-dark-green {
+    background-color: #19504a;
+    padding-top: 200px;
+    padding-bottom: 103px;
+    position: relative;
+}
+section.inside_section_1 .img-hero {
+    position: absolute;
+    left: 0;
+    top: 27%;
+}
+section.inside_section_1 .outer-content {
+    padding-top: 112px;
+}
+section.inside_section_1 .inside-content {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+section.inside_section_1 .inside-content .right-caption {
+    flex-basis: 45.5%;
+    padding-right: 30px;
+}
+section.inside_section_1 .inside-content .right-caption h4 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #26ff82;
+    margin-bottom: 28px;
+}
+section.inside_section_1 .inside-content .right-caption h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 41.14px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 19px;
+}
+section.inside_section_1 .inside-content .right-caption p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 27px;
+}
+section.inside_section_1 .inside-content .right-caption .name p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 26px;
+}
+section.inside_section_1 .inside-content .right-caption .name p span {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    color: #fff;
+}
+/* inside_section_1 end */
+
+/* inside_section_2 start */
+
+/* section.inside_section_2 .wrapper-content {
+    max-width: 1806px;
+    padding-left: 12px;
+    display: flex;
+    justify-content: space-between;
+} */
+section.inside_section_2.pg_about {
+    padding-bottom: 90px;
+}
+section.inside_section_2 .inside-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+section.inside_section_2 .left-title {
+    /* display: flex; */
+    padding-top: 180px;
+    /* padding-left: 100px; */
+    /* padding-right: 160px; */
+    flex-basis: 200px;
+    white-space: nowrap;
+}
+section.inside_section_2 .left-title h3 {
+    line-height: 2;
+}
+section.inside_section_2 .inside_content_right {
+    display: flex;
+    position: relative;
+}
+section.inside_section_2 .inside_content_right .img-section-2 {
+    position: absolute;
+    right: 21px;
+    /* top: 27.5%; */
+    bottom: -15.5%;
+}
+section.inside_section_2 .inside_content_right .right-caption {
+    flex: 0 0 60%;
+}
+section.inside_section_2 .inside_content_right.bg-green {
+    /* background-color: #26ff82; */
+    padding-left: 82px;
+    padding-top: 178px;
+    padding-bottom: 78px;
+    width: auto;
+    position: relative;
+    max-width: 1377px;
+    width: 100%;
+}
+section.inside_section_2 .inside_content_right.bg-green::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* width: 130%; */
+    width: 1800px;
+    height: 100%;
+    z-index: -1;
+    background-color: #26ff82;
+}
+section.inside_section_2 .inside_content_right .right-caption h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 43.14px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 32px;
+}
+section.inside_section_2 .inside_content_right .right-caption p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.4;
+    color: black;
+    margin-bottom: 34px;
+}
+section.inside_section_2.pg_about .inside_content_right .img-section-2 .location {
+    text-align: right;
+    position: absolute;
+    bottom: 31px;
+    left: -50%;
+    transform: translateX(-63%);
+}
+section.inside_section_2 .location h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 2px;
+}
+section.inside_section_2 .location p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    color: #262626;
+    margin-bottom: 0;
+    white-space: nowrap;
+}
+/* inside_section_2 end */

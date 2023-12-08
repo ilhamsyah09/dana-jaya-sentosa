@@ -40,7 +40,7 @@
                 <div class="footer-content-bottom">
                     <div class="inside-content d-flex align-items-center justify-content-between flex-wrap gap-3">
                         <div class="main-logo">
-                            <img src="assets/images/logo-footer.png" class="img-fluid" alt="">
+                            <img src="assets/images/home-images/logo-footer.png" class="img-fluid" alt="">
                         </div>
                         <div class="copyright">
                             <p>© COPYRIGHT PT. DANA JAYA SENTOSA
