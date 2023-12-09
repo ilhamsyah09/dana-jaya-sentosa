@@ -1,5 +1,5 @@
 .wrapper,
-.middle_content {
+.middle-content {
     overflow: hidden;
 }
 
@@ -89,8 +89,11 @@ section.inside_section_2 .inside_content_right.bg-dark-orange {
     padding-right: 26px;
     width: auto;
     position: relative;
-    max-width: 1377px;
+    /* max-width: 1377px; */
+    max-width: 1401px;
     width: 100%;
+    background-color: #b86028;
+    z-index: -1;
 }
 section.inside_section_2 .inside_content_right.bg-dark-orange .box-caption p {
     font-family: 'Noto Sans', sans-serif;
@@ -121,7 +124,7 @@ section.inside_section_3 .outer-content.list_card_description {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
-    padding-right: 0px;
+    padding-right: 23px;
     padding-bottom: 90px;
 }
 section.inside_section_3 .inside-content {
@@ -132,6 +135,7 @@ section.inside_section_3 .inside-content {
 }
 section.inside_section_3 .inside-content.item {
     padding-top: 67px;
+    gap: 70px;
 }
 section.inside_section_3 .inside-content.item:first-of-type {
     padding-top: 0px;
@@ -139,41 +143,43 @@ section.inside_section_3 .inside-content.item:first-of-type {
 section.inside_section_3 .inside-content .card-content {
     background-color: #00a651;
     max-width: 1377px;
-    width: 100%;
+    /* width: 100%; */
     /* padding: 109px 80px 105px 80px; */
     display: flex;
     align-items: flex-start;
     justify-content: center;
 }
-section.inside_section_3 .inside-content .card-content .box-caption {
+section.inside_section_3 .box-caption {
     /* padding: 80px 94px 71px 94px; */
-    padding: 0px 94px;
+    /* padding: 0px 94px; */
     padding-top: 80px;
     padding-bottom: 30px;
+    padding-left: 8%;
+    padding-right: 12%;
 }
-section.inside_section_3 .inside-content .card-content .box-caption p {
+section.inside_section_3 .box-caption p {
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
     font-weight: 400;
     color: #fff;
     margin-bottom: 31px;
 }
-section.inside_section_3 .inside-content .card-content .box-caption p span {
+section.inside_section_3 .box-caption p span {
     font-weight: 700;
     color: #fff;
 }
-section.inside_section_3 .inside-content.item a.nav-link {
+section.inside_section_3 .box-caption a.nav-link {
     font-family: 'Noto Sans', sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
     gap: 15px;
 }
-section.inside_section_3.pg_simpanan .inside-content .card-content .box-caption p span {
+section.inside_section_3.pg_simpanan .box-caption p span {
     font-style: italic;
     font-weight: 400;
 }
-section.inside_section_3 .inside-content .card-content .box-caption h3 {
+section.inside_section_3 .box-caption h3 {
     font-family: 'Noto Sans', sans-serif;
     font-size: 20px;
     font-weight: 700;
@@ -181,4 +187,51 @@ section.inside_section_3 .inside-content .card-content .box-caption h3 {
     margin-bottom: 29px;
 }
 /* inside_section_3 end */
+
+/* edit other section  */
+section.inside_section_1.pg_dana_mudah .img-hero {
+    top: 20.5%;
+}
+section.inside_section_1.pg_dana_mudah.bg-dark-green {
+    padding-bottom: 128px;
+}
+section.inside_section_3.pg_simpanan .inside-content .card-content .box-caption {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    padding-bottom: 70px;
+}
+section.inside_section_3.pg_simpanan .inside-content .left-title {
+    flex: 1;
+    white-space: nowrap;
+}
+section.inside_section_3.pg_simpanan .inside-content .card-content.bg-green {
+    flex: 7;
+}
+section.inside_section_3.pg_simpanan .inside-content .card-content .box-caption .text-top {
+    /* padding-bottom: 87px; */
+}
+section.inside_section_1.pg_simpanan .img-hero {
+    top: 24%;
+}
+section.inside_section_1.pg_contact .img-hero {
+    top: 27.5%;
+}
+section#contact .inside-content .description {
+    padding-bottom: 44px;
+}
+section#contact {
+    padding-bottom: 180px;
+}
+.middle-content section.home6.contact-us .outer-content {
+    padding-right: 20px;
+}
+/* edit other section */
+
+@media (max-width: 1700px) {
+    section.inside_section_3.pg_simpanan .inside-content .left-title {
+        white-space: wrap;
+    }
+}
 

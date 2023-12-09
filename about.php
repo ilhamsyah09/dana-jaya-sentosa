@@ -1,7 +1,7 @@
 <?php include 'include/_head.php' ?>
 <div class="wrapper">
     <?php include 'include/_header.php' ?>
-    <div class="middle_content">
+    <div class="middle-content">
         <section class="inside_section_1 pg_about bg-dark-green">
             <div class="custom container">
                 <div class="outer-content">

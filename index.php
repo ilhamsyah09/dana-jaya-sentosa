@@ -371,7 +371,7 @@
             </div>
         </section>
 
-        <section class="home6 contact-us" id="contact-us">
+        <section class="home6 contact-us"
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">

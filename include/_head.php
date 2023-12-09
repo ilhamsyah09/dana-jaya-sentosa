@@ -13,6 +13,5 @@
     <link rel="stylesheet" href="assets/css/inside_page.css">
     <link rel="stylesheet" href="assets/css/about.css">
     <link rel="stylesheet" href="assets/css/contact.css">
-    <link rel="stylesheet" href="assets/css/edit_section.css">
 </head>
 <body>
