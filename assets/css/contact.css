@@ -103,3 +103,64 @@ section.inside_section_2 .background-block .rights_background {
     padding-bottom: 90px;
     padding-right: 143px;
 }
+
+@media (max-width: 1470px) {
+    section.inside_section_2 .box-banner-info {
+        width: 1160px;
+        left: -265px;
+    }
+    section.inside_section_2 table tbody tr td.col-2 {
+        width: 36%;
+    }
+    section.inside_section_2 table tbody tr td.col-3 {
+        width: 41%;
+    }
+}
+
+@media (max-width: 1150px) {
+    section.inside_section_2 .box-banner-info {
+        width: 960px;
+        left: -220px;
+    }
+    section.inside_section_2 table tbody tr td {
+        font-size: 17px;
+    }
+    section.inside_section_2 table tbody tr td.last {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 1024px) {
+    section.inside_section_2 .inner-contents p {
+        font-size: 24px;
+    }
+    section.inside_section_2 .background-block .rights_background {
+        padding-top: 50px;
+    }
+    section.inside_section_2 .box-banner-info {
+        padding-top: 28px;
+    }
+}
+
+@media (max-width: 991px) {
+    section.inside_section_2 .background-block .rights_background {
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+    section.inside_section_2 .box-banner-info {
+        width: auto;
+        left: 0px;
+    }
+    section.inside_section_2 table tbody tr td {
+        padding-left: 20px;
+    }
+    section.inside_section_2 .background-block .left {
+        width: 0;
+    }
+    section.inside_section_2 .background-block .rights_background {
+        width: auto;
+    }
+    section.inside_section_2 table tbody tr td:first-of-type {
+        color: white;
+    }
+}
