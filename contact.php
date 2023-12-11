@@ -69,7 +69,7 @@
             </div>
         </section> -->
 
-        <div class="section2">
+        <section class="inside_section_2 pg_contact">
             <div class="background-block">
                 <div class="left"></div>
                 <div class="rights_background bg-orange">
@@ -122,7 +122,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
 
 
         <section class="home6 contact-us" id="contact">
