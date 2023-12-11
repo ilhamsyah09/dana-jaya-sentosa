@@ -75,7 +75,7 @@
             </div>
         </section>
 
-        <section class="inside_section_4 pg_about">
+        <section class="inside_section_4 pg_about bg-gray">
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
