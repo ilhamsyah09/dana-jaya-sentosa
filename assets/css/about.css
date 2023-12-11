@@ -54,7 +54,7 @@ section.inside_section_2 .inside_content_right .img-section-2 {
     position: absolute;
     right: 21px;
     /* top: 27.5%; */
-    bottom: -12.8%;
+    bottom: -12%;
 }
 section.inside_section_2 .inside_content_right .right-caption {
     flex: 0 0 60%;
