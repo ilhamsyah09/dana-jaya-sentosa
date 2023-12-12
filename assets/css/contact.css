@@ -162,5 +162,12 @@ section.inside_section_2 .background-block .rights_background {
     }
     section.inside_section_2 table tbody tr td:first-of-type {
         color: white;
+        padding-left: 0;
+    }
+    section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed a.nav-link {
+        width: 80px;
+    }
+    section#contact {
+        padding-bottom: 84px;
     }
 }

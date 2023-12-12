@@ -257,6 +257,22 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
     section.inside_section_2 .inside_content_right .img-section-2 {
         width: 270px;
     }
+
+
+    section.inside_section_3 .inside-content .right-content .visi p {
+        font-size: 22px !important;
+    }
+    section.inside_section_3 .inside-content .right-content .misi ul li {
+        font-size: 18px;
+    }
+    section.inside_section_3 .inside-content .right-content {
+        padding: 50px 70px;
+    }
+
+
+    section.inside_section_4 .inside-content .list-kultur.right-content {
+        justify-content: center;
+    }
 }
 
 @media (max-width: 991px) {
@@ -265,6 +281,7 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
     }
     section.inside_section_2 .left-title {
         padding-bottom: 39px;
+        padding-top: 86px;
     }
     section.inside_section_2 .inside_content_right .img-section-2 {
         position: static;
@@ -296,10 +313,13 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
     }
 
 
+    section.inside_section_3.pg_about {
+        padding-top: 0;
+    }
     section.inside_section_3 .inside-content {
         flex-wrap: wrap;
     }
-    section.inside_section_3 .inside-content .left-title {
+    section.inside_section_3.pg_about .inside-content .left-title {
         flex-basis: 200px !important;
         padding-bottom: 39px;
     }
@@ -311,13 +331,19 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
         font-size: 22px;
     }
     section.inside_section_3 .inside-content .right-content .misi ul li {
-        font-size: 18px;
+        font-size: 17px;
     }
     section.inside_section_3 .inside-content .right-content {
         padding: 30px 20px;
     }
+    section.inside_section_3 .outer-content {
+        padding-right: 0;
+    }
 
 
+    section.inside_section_4.pg_about.bg-gray {
+        padding-top: 0;
+    }
     section.inside_section_4 .inside-content {
         flex-wrap: wrap;
     }
@@ -339,5 +365,6 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
     }
     section.inside_section_4 .outer-content {
         padding-bottom: 17px;
+        padding-right: 0;
     }
 }
