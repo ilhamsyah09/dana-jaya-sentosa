@@ -3,6 +3,9 @@
     <?php include 'include/_header.php' ?>
     <div class="middle-content">
         <section class="inside_section_1 pg_dana_mudah bg-dark-green">
+            <div class="img-hero-mobile d-block d-md-none">
+                <img src="assets/images/dana-mudah-imagaes/img-hero-dana-mudah.png" class="img-fluid" alt="">
+            </div>
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">

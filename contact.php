@@ -3,6 +3,9 @@
     <?php include 'include/_header.php' ?>
     <div class="middle-content">
         <section class="inside_section_1 pg_contact bg-dark-green">
+            <div class="img-hero-mobile d-block d-md-none">
+                <img src="assets/images/contact-images/img-hero-contact.png" class="img-fluid" alt="">
+            </div>
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
@@ -26,49 +29,6 @@
             </div>
         </section>
 
-        <!-- <section class="inside_section_2 pg_contact bg-dark-orange">
-            <div class="custom container">
-                <div class="inside-content">
-                    <div class="left-title"></div>
-                    <div class="inside_content_right bg-dark-orange">
-                        <div class="box-caption">
-                            <p>Mungkin tanpa anda sadari bahwa impian anda dapat terwujud dengan risiko yang sangat terukur berkat bantuan perhitungan dari tim konsultan ekonomi Dana Jaya Sentosa. Temui tim kami segera dan bicarakan lebih lanjut tentang rencana finansial anda.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="inside_contact_wrapper">
-                <div class="custom container">
-                    <table widht="100">
-                        <thead>
-                            <tr>
-                                <th width="386">KOTA</th>
-                                <th widht="668">LUMAJANG</th>
-                                <th widht="625">SIDOARJO</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th width="500">ALAMAT</th>
-                                <td>Jl. Gubernur Suryo No.18, Tompokersan
-                                   <br> Kec. Lumajang, Kabupaten Lumajang
-                                   <br> Jawa Timur 67316
-                                </td>
-                                <td>
-                                    Jl. Gubernur Suryo No.18, Tompokersan
-                                   <br> Kec. Lumajang, Kabupaten Lumajang
-                                   <br> Jawa Timur 67316
-                                </td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </section> -->
-
         <section class="inside_section_2 pg_contact">
             <div class="background-block">
                 <div class="left"></div>
@@ -78,7 +38,7 @@
                         <p>Mungkin tanpa anda sadari bahwa impian anda dapat terwujud dengan risiko yang sangat terukur berkat bantuan perhitungan dari tim konsultan ekonomi Dana Jaya Sentosa. Temui tim kami segera dan bicarakan lebih lanjut tentang rencana finansial anda.</p>
 
                         <!-- // start box table has lines -->
-                        <div class="box-banner-info">
+                        <div class="box-banner-info d-none d-md-block">
                             <table>
                                 <tbody>
                                     <tr>
@@ -117,6 +77,72 @@
                                 </tbody>
                             </table>
                         </div>
+
+                        <div class="box-banner-info-mobile d-block d-md-none">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td class="col-1"><span>KOTA</span></td>
+                                        <td class="col-2">LUMAJANG</td>
+                                        
+                                    </tr>
+                                    <tr>
+                                        <td><span>ALAMAT</span></td>
+                                        <td>
+                                            Jl. Gubernur Suryo No.18, Tompokersan
+                                            <br> Kec. Lumajang, Kabupaten Lumajang
+                                            <br> Jawa Timur 67316
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><span>TELEPON</span></td>
+                                        <td>0812 3500 5555</td>
+                                        
+                                    </tr>
+                                    <tr>
+                                        <td><span>EMAIL</span></td>
+                                        <td>weslydistributionexchange@yahoo.com</td>
+                                        
+                                    </tr>
+                                    <tr>
+                                        <td><span>HOTLINE</span></td>
+                                        <td class="last">0812 3456 8888</td>
+                                        <td></td>
+                                    </tr>
+                                </tbody>
+                                <tbody>
+                                    <tr>
+                                        <td class="col-1"><span>KOTA</span></td>
+                                        
+                                        <td class="col-3">SIDOARJO</td>
+                                    </tr>
+                                    <tr>
+                                        <td><span>ALAMAT</span></td>
+                                        
+                                        <td>
+                                            Jl. Gubernur Suryo No.18, Tompokersan
+                                            <br> Kec. Lumajang, Kabupaten Lumajang
+                                            <br> Jawa Timur 67316
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><span>TELEPON</span></td>
+                                       
+                                        <td>0812 3500 5555</td>
+                                    </tr>
+                                    <tr>
+                                        <td><span>EMAIL</span></td>
+                                        
+                                        <td>weslydistributionexchange@yahoo.com</td>
+                                    </tr>
+                                    <tr>
+                                        <td><span>HOTLINE</span></td>
+                                        
+                                        <td></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                         <!-- // end box table has lines -->
                         <!-- end text-content -->
                     </div>
@@ -149,7 +175,24 @@
         </section>
     </div>
     <style type="text/css">
-	
+	.table-container {
+        width: 100%;
+    }
+    .table-container .table-top {
+        width: 1057px !important;
+    }
+    .table-container .table-bottom {
+        width: 621px !important;
+    }
+    .table-container .table-top td.col-1 {
+        width: 36.53%;
+    }
+    .table-container .table-top td.col-2 {
+        width: 63.47%;
+    }
+    .table-container .table-bottom td.col-3 {
+        width: 100%;
+    }
 </style>
     <?php include 'include/_part_footer.php' ?>
 </div>

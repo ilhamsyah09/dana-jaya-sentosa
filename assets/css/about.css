@@ -368,3 +368,61 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
         padding-right: 0;
     }
 }
+
+@media (max-width: 767px) {
+    section.inside_section_2 .inside_content_right .right-caption h3 {
+        font-size: 24px;
+    }
+    section.inside_section_2 .inside_content_right .right-caption p {
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+    section.inside_section_2 .inside_content_right.bg-green {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+    section.inside_section_2 .location p {
+        font-size: 15px;
+    }
+    section.inside_section_2 .location h3 {
+        font-size: 17px;
+    }
+    section.inside_section_2 .inside_content_right.bg-green::after {
+        left: -12px;
+    }
+    section.inside_section_2 .inside_content_right.bg-green {
+        padding-left: 0;
+    }
+
+
+    section.inside_section_3 .inside-content .right-content .visi p {
+        font-size: 18px !important;
+    }
+    section.inside_section_3 .inside-content .right-content .misi ul li {
+        font-size: 14px;
+    }
+    section.inside_section_3 .inside-content .right-content {
+        padding: 20px 12px;
+    }
+    section.inside_section_3 .inside-content .right-content h3 {
+        margin-bottom: 20px;
+    }
+    section.inside_section_3 .inside-content .right-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+
+    section.inside_section_4 .inside-content .list-kultur .item .box-caption h3 {
+        font-size: 18px;
+    }
+    section.inside_section_4 .inside-content .list-kultur .item .box-caption li {
+        font-size: 15px;
+    }
+    section.inside_section_4 .inside-content .list-kultur .item .img {
+        padding-bottom: 28px;
+    }
+    section.inside_section_4 .inside-content .list-kultur.right-content {
+        row-gap: 40px;
+    }
+}

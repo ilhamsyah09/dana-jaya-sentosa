@@ -81,6 +81,9 @@ section.inside_section_1 .inside-content .right-caption .name p span {
     font-style: italic;
     color: #fff;
 }
+section.inside_section_1 .inside-content .img-hero-mobile {
+    display: none;
+}
 /* inside_section_1 end */
 
 /* inside_section_2  start */
@@ -457,4 +460,60 @@ section#contact {
     section.inside_section_1 .img-hero {
         width: 400px;
     } 
+    section.inside_section_1 .img-hero {
+        display: none;
+    }
+    section.inside_section_1 .inside-content .right-caption {
+        flex: auto;
+        padding-right: 0;
+    }
+    section.inside_section_1 .outer-content {
+        padding-top: 1rem;
+    }
+    section.inside_section_1 .inside-content .img-hero-mobile {
+        display: block;
+        padding-bottom: 30px;
+    }
+    section.inside_section_1 .inside-content {
+        flex-wrap: wrap;
+    }
+    section.inside_section_1 .inside-content .right-caption h3 {
+        font-size: 19px;
+    }
+    section.inside_section_1 .inside-content .right-caption h4 {
+        margin-bottom: 16px;
+    }
+    section.inside_section_1 .inside-content .right-caption p {
+        font-size: 14px;
+    }
+    section.inside_section_1 .inside-content .right-caption .name p,
+    section.inside_section_1 .inside-content .right-caption .name p span {
+        font-size: 14px;
+    }
+    section.inside_section_2.pg_dana_mudah.bg-dark-orange,
+    section.inside_section_2.pg_simpanan.bg-dark-orange {
+        background-color: #b86028;
+    }
+    section.inside_section_2 .inside_content_right.bg-dark-orange {
+        z-index: 10;
+        padding: 24px 0;
+    }
+    section.inside_section_2 .inside_content_right.bg-dark-orange .box-caption p {
+        font-size: 16px;
+    }
+
+
+    section.inside_section_3 .box-caption {
+        padding: 20px !important;
+    }
+    section.inside_section_3 .box-caption h3 {
+        font-size: 17px;
+        margin-bottom: 24px;
+    }
+    section.inside_section_3 .box-caption p {
+        font-size: 14px;
+    }
+    section.inside_section_3 .box-caption a.nav-link {
+        font-size: 14px;
+    }
 }

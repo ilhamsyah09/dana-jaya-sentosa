@@ -104,6 +104,14 @@ section.inside_section_2 .background-block .rights_background {
     padding-right: 143px;
 }
 
+
+
+
+
+section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed {
+    gap: 23px;
+}
+
 @media (max-width: 1470px) {
     section.inside_section_2 .box-banner-info {
         width: 1160px;
@@ -165,9 +173,86 @@ section.inside_section_2 .background-block .rights_background {
         padding-left: 0;
     }
     section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed a.nav-link {
-        width: 80px;
+        width: 60px;
     }
     section#contact {
         padding-bottom: 84px;
     }
+    section.inside_section_2 .inner-contents p {
+        font-size: 18px;
+    }
+    section.inside_section_2 table tbody tr td {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 767px) {
+    section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed {
+        gap: 10px;
+    }
+    section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed a.nav-link {
+        width: 50px;
+    }
+    section#contact .inside-content .description {
+        padding-bottom: 28px;
+    }
+    section.inside_section_2 .background-block .rights_background {
+        padding-top: 24px;
+        padding-bottom: 50px;
+    }
+    section.inside_section_2 .inner-contents p {
+        font-size: 16px;
+    }
+    section#contact {
+        padding-bottom: 46px;
+    }
+
+    /* test table responsive */
+    section.inside_section_2 table  {
+       border-spacing: 40px;
+    }
+    section.inside_section_2 table tbody::after {
+        content: '';
+        display: block;
+        height: 24px;
+    }
+    section.inside_section_2 table tbody tr td {
+        font-size: 11px !important;
+        word-wrap: break-word;
+    }
+    section.inside_section_2 table tbody tr td {
+        padding-left: 0;
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    section.inside_section_2 table tbody tr td br {
+        display: none;
+    }
+    section.inside_section_2 table tbody tr td {
+        width: auto !important;
+    }
+    section.inside_section_2 table tbody tr td {
+        padding-right: 18px !important;
+    }
+
+    
+
+    /* section.inside_section_2 table {
+        display: block;
+        width: 100%;
+    }
+    section.inside_section_2 table tr {
+        display: block;
+        margin-bottom: 40px;
+    }
+    section.inside_section_2 table tr td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    section.inside_section_2 table tr td:nth-child(3n+1) {
+        clear: both;
+    } */
+
+    
 }

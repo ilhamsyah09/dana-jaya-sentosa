@@ -666,6 +666,7 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     }
     header nav .offcanvas-body {
         flex-direction: column !important;
+        justify-content: space-between !important;
     }
     header nav .offcanvas {
         transition: transform 0.3s ease-in-out ;
@@ -891,7 +892,7 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     /* home5 pelanggan kami */
 
     section.home6.contact-us {
-        padding-bottom: 58px;
+        padding-bottom: 46px;
         padding-top: 38px;
     }
     section.home6.contact-us .inside-content .description h3 {
@@ -925,10 +926,13 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
         gap: 28px;
     }
     footer.footer .footer-content-top .list-nav .item .mail {
-        padding-top: 26px;
+        padding-top: 16px;
     }
     footer.footer .footer-content-top .list-nav .item .address {
-        padding-top: 26px;
+        padding-top: 16px;
+    }
+    footer.footer .footer-content-bottom .inside-content .main-logo {
+        width: 250px;
     }
     /* footer end */
 }
