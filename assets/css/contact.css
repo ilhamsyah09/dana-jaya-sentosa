@@ -211,7 +211,7 @@ section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed {
     section.inside_section_2 table  {
        border-spacing: 40px;
     }
-    section.inside_section_2 table tbody::after {
+    section.inside_section_2 table tbody:first-of-type::after {
         content: '';
         display: block;
         height: 24px;
