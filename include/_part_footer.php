@@ -22,16 +22,16 @@
                         <div class="item">
                             <div class="nav-footer">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">DANA MUDAH</a>
+                                    <a href="dana-mudah.php" class="nav-link">DANA MUDAH</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">SIMPANAN PASTI UNTUNG</a>
+                                    <a href="simpanan.php" class="nav-link">SIMPANAN PASTI UNTUNG</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">TENTANG KAMI</a>
+                                    <a href="about.php" class="nav-link">TENTANG KAMI</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">HUBUNGI KAMI</a>
+                                    <a href="contact.php" class="nav-link">HUBUNGI KAMI</a>
                                 </li>
                             </div>
                         </div>

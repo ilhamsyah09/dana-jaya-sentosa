@@ -120,7 +120,7 @@
                             <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
                         </div>
                         <div class="btn-contact">
-                            <a href="#" class="nav-link d-flex align-items-center justify-content-center">
+                            <a href="contact.php" class="nav-link d-flex align-items-center justify-content-center">
                                 <img src="assets/images/home-images/icon-right-black.png" class="img-fluid" alt="">
                                 HUBUNGI KAMI
                             </a>
