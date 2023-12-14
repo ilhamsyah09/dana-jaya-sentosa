@@ -17,7 +17,7 @@
                                                 <button class="btn green" type="button">
                                                     AJUKAN PINJAMAN USAHA
                                                 </button>
-                                                <button class="btn orange" type="button">
+                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
                                                     HUBUNGI KAMI
                                                 </button>
                                             </div>
@@ -35,7 +35,7 @@
                                                 <button class="btn green" type="button">
                                                     AJUKAN PINJAMAN USAHA
                                                 </button>
-                                                <button class="btn orange" type="button">
+                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
                                                     HUBUNGI KAMI
                                                 </button>
                                             </div>
@@ -61,7 +61,7 @@
                                                 <button class="btn green" type="button">
                                                     AJUKAN PINJAMAN USAHA
                                                 </button>
-                                                <button class="btn orange" type="button">
+                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
                                                     HUBUNGI KAMI
                                                 </button>
                                             </div>
@@ -79,7 +79,7 @@
                                                 <button class="btn green" type="button">
                                                     AJUKAN PINJAMAN USAHA
                                                 </button>
-                                                <button class="btn orange" type="button">
+                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
                                                     HUBUNGI KAMI
                                                 </button>
                                             </div>
@@ -105,7 +105,7 @@
                                                 <button class="btn green" type="button">
                                                     AJUKAN PINJAMAN USAHA
                                                 </button>
-                                                <button class="btn orange" type="button">
+                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
                                                     HUBUNGI KAMI
                                                 </button>
                                             </div>
@@ -123,7 +123,7 @@
                                                 <button class="btn green" type="button">
                                                     AJUKAN PINJAMAN USAHA
                                                 </button>
-                                                <button class="btn orange" type="button">
+                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
                                                     HUBUNGI KAMI
                                                 </button>
                                             </div>
@@ -155,7 +155,7 @@
                                 <div class="text-caption">
                                     <h3>Kredit Karyawan</h3>
                                     <p>Dengan penghasilan tetap anda, banyak hal yang dapat anda beli dan wujudkan!</p>
-                                    <a href="#" class="nav-link d-flex align-items-center">
+                                    <a href="dana-mudah.php#kredit-karyawan" class="nav-link d-flex align-items-center">
                                         <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                         PELAJARI LEBIH LANJUT
                                     </a>
@@ -168,7 +168,7 @@
                                 <div class="text-caption">
                                     <h3>Kredit Multiguna</h3>
                                     <p>Jadikan mimpimu kenyataan dengan program kredit yang sangat fleksibel dan bunga rendah!</p>
-                                    <a href="#" class="nav-link d-flex align-items-center">
+                                    <a href="dana-mudah.php#kredit-multiguna" class="nav-link d-flex align-items-center">
                                         <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                         PELAJARI LEBIH LANJUT
                                     </a>
@@ -181,7 +181,7 @@
                                 <div class="text-caption">
                                     <h3>Kredit Korporat</h3>
                                     <p>Kembangkan lebih besar potensi usahamu menjadi skala yang sebelumnya hanya anda impikan!</p>
-                                    <a href="#" class="nav-link d-flex align-items-center">
+                                    <a href="dana-mudah.php#kredit-korporat" class="nav-link d-flex align-items-center">
                                         <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                         PELAJARI LEBIH LANJUT
                                     </a>
@@ -214,7 +214,7 @@
                                     <div class="right-caption">
                                         <h3>Simpanan Sukarela</h3>
                                         <p>Simpanan berbunga dengan setoran awal mulai dari 15ribu rupiah!</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="simpanan.php#simpanan-sukarela" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                             PELAJARI LEBIH LANJUT
                                         </a>
@@ -227,7 +227,7 @@
                                     <div class="right-caption">
                                         <h3>Simpanan Hari Raya</h3>
                                         <p>Simpanan berbunga tinggi siap dipetik saat hari raya dan berhadiah parcel!</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="simpanan.php#simpanan-hariraya" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                             PELAJARI LEBIH LANJUT
                                         </a>
@@ -240,7 +240,7 @@
                                     <div class="right-caption">
                                         <h3>Simpanan Bisnis</h3>
                                         <p>Simpanan menguntungkan berbunga agresif dengan setoran awal hanya sebesar 500ribu rupiah</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="simpanan.php#simpanan-bisnis" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                             PELAJARI LEBIH LANJUT
                                         </a>
@@ -253,7 +253,7 @@
                                     <div class="right-caption">
                                         <h3>Simpanan Masa</h3>
                                         <p>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan rasakan nikmatnya di 6 bulan ke depan!</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="simpanan.php#simpanan-masa" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                             PELAJARI LEBIH LANJUT
                                         </a>
@@ -266,7 +266,7 @@
                                     <div class="right-caption">
                                         <h3>Simpanan Berjangka</h3>
                                         <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="simpanan.php#simpanan-berjangka" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                             PELAJARI LEBIH LANJUT
                                         </a>
@@ -279,7 +279,7 @@
                                     <div class="right-caption">
                                         <h3>Deposito</h3>
                                         <p>Program simpanan deposito berbunga tinggi untuk periode 1 / 3 / 6 / 12 bulan</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="simpanan.php#deposito" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                             PELAJARI LEBIH LANJUT
                                         </a>
@@ -309,7 +309,7 @@
                                     <p>Dana Jaya Sentosa telah membuktikan sepak terjang kesuksesan dalam pengelolaan dana masyarakat kecil, mewujudkan impian mulai dari berangkat umrah, hingga memampukan masyarakat untuk mendirikan usaha kecil mikro hingga usaha kecil menengah.</p>
                                     <p>Pengetahuan dan kepedulian Dana Jaya Sentosa terhadap masyarakat kecil ini lah yang menjadi dasar utama dalam merancang program simpanan maupun pinjaman yang menarik dan berorientasi kepada kemandirian pelanggan menuju kesuksesan.</p>
                                     <p>Spesialisasi Dana Jaya Sentosa membuat para pelanggan mengembangkan diri dengan pengelolaan dana yang aman, terpercaya dan berfaedah. Kami memahami kebutuhan tiap pelanggan yang unik dan spesifik, ijinkan Dana Jaya Sentosa mengenal anda lebih lanjut untuk mewujudkan kesuksesan anda.</p>
-                                    <a href="#" class="nav-link d-flex align-items-center">
+                                    <a href="about.php" class="nav-link d-flex align-items-center">
                                         <img src="assets/images/home-images/icon-right-black.png" class="img-fluid" alt="">
                                         PELAJARI LEBIH LANJUT
                                     </a>

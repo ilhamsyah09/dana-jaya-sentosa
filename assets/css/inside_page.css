@@ -19,6 +19,10 @@
     margin-bottom: 0;
 }
 
+html {
+    scroll-padding-top: 100px;
+}
+
 /* inside_section_1 start */
 section.inside_section_1.bg-dark-green {
     background-color: #19504a;

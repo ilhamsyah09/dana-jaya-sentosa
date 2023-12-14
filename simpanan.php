@@ -45,7 +45,7 @@
         <section class="inside_section_3 pg_simpanan">
             <div class="custom container">
                 <div class="outer-content list_card_description">
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="simpanan-sukarela">
                         <div class="left-title">
                             <h3>SIMPANAN SUKARELA</h3>
                         </div>
@@ -71,7 +71,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="simpanan-hariraya">
                         <div class="left-title">
                             <h3>SIMPANAN HARI RAYA</h3>
                         </div>
@@ -97,7 +97,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="simpanan-bisnis">
                         <div class="left-title">
                             <h3>SIMPANAN BISNIS</h3>
                         </div>
@@ -123,7 +123,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="simpanan-masa">
                         <div class="left-title">
                             <h3>SIMPANAN MASA</h3>
                         </div>
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="simpanan-berjangka">
                         <div class="left-title">
                             <h3>SIMPANAN BERJANGKA</h3>
                         </div>
@@ -175,7 +175,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="deposito">
                         <div class="left-title">
                             <h3>DEPOSITO</h3>
                         </div>

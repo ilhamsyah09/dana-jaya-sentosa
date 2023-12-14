@@ -45,7 +45,7 @@
         <section class="inside_section_3 pg_dana_mudah">
             <div class="custom container">
                 <div class="outer-content list_card_description">
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="kredit-karyawan">
                         <div class="left-title">
                             <h3>KREDIT KARYAWAN</h3>
                         </div>
@@ -66,7 +66,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="kredit-multiguna">
                         <div class="left-title">
                             <h3>KREDIT MULTIGUNA</h3>
                         </div>
@@ -87,7 +87,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item">
+                    <div class="inside-content item" id="kredit-korporat">
                         <div class="left-title">
                             <h3>KREDIT KORPORAT</h3>
                         </div>
