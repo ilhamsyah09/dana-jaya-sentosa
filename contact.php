@@ -107,7 +107,6 @@
                                     <tr>
                                         <td><span>HOTLINE</span></td>
                                         <td class="last">0812 3456 8888</td>
-                                        <td></td>
                                     </tr>
                                 </tbody>
                                 <tbody>
