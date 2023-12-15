@@ -10,11 +10,23 @@
 .left-title {
     flex-basis: 200px;
 }
-
-/* html {
-    scroll-behavior: smooth;
-    scroll-padding-top: 100px;
-} */
+/* Animated CSS EDIT */
+nav .offcanvas-body .navbar-nav .nav-item.delay-100ms {
+    animation-delay: 100ms;
+}
+nav .offcanvas-body .navbar-nav .nav-item.delay-200ms {
+    animation-delay: 200ms;
+}
+nav .offcanvas-body .navbar-nav .nav-item.delay-300ms {
+    animation-delay: 300ms;
+}
+nav .offcanvas-body .navbar-nav .nav-item.delay-400ms {
+    animation-delay: 400ms;
+}
+nav .offcanvas-body .navbar-nav .nav-item.delay-500ms {
+    animation-delay: 500ms;
+}
+/* Animated CSS EDIT */
 /* header start */
 header nav.navbar.navbar-expand-lg {
     padding-top: 49px;
@@ -159,8 +171,9 @@ section.home1.main-banner .inside-content .left-caption .btn-wrapper .btn.orange
 section.home1.main-banner .tag-name {
     position: absolute;
     bottom: 26px;
-    left: 39%;
+    /* left: 39%; */
     /* transform: translateX(-80%); */
+    left: 37%;/* edit left position */
 }
 section.home1.main-banner .tag-name h3 {
     font-family: 'Noto Sans', sans-serif;
@@ -421,6 +434,7 @@ section.home6.contact-us .inside-content .description h3 {
 section.home6.contact-us .outer-content {
     display: flex;
     justify-content: end;
+    padding-right: 23px;
 }
 section.home6.contact-us .outer-content .inside-content {
     max-width: 1377px;
@@ -761,9 +775,18 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     section.home4.tentang-kami .inside-content .right-content .wrapper-small-description {
         padding-top: 38px;
     }
+    
     /* home4 tentang kami end */
 
+
+    section.home5.pelanggan-kami .inside-content {
+        padding-right: 0;
+    }
+
     section.home6.contact-us .outer-content .inside-content {
+        padding-right: 0;
+    }
+    section.home6.contact-us .outer-content {
         padding-right: 0;
     }
     section.home6.contact-us .inside-content .description h3 {

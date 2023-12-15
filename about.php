@@ -9,7 +9,7 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
-                        <div class="right-caption">
+                        <div class="right-caption wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                             <h4>TENTANG KAMI</h4>
                             <h3>Goal kami adalah menciptakan masyarakat mandiri berorientasi ke masa depan, dengan ekonomi sehat dan berkelangsungan. </h3>
                             <p>Dana Jaya Sentosa ingin menawarkan bahwa bukan hanya pemilik modal besar yang mampu menjalankan berbagai kesempatan usaha, namun masyarakat kecilpun layak berkesempatan mewujudkan cita citanya.</p>
@@ -20,7 +20,7 @@
                     </div>
                 </div>
             </div>
-            <div class="img-hero">
+            <div class="img-hero wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-offset="10">
                 <img src="assets/images/about-images/img-about-section1.png" class="img-fluid" alt="">
             </div>
         </section>
@@ -28,16 +28,16 @@
         <section class="inside_section_2 pg_about bg-green">
             <div class="custom container">
                 <div class="inside-content">
-                    <div class="left-title">
+                    <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                         <h3>SEJARAH KAMI</h3>
                     </div>
                     <div class="inside_content_right bg-green">
-                        <div class="right-caption">
+                        <div class="right-caption wow animate__animated animate__fadeInDown" data-wow-delay="0.5s" data-wow-offset="10">
                             <h3>Bermula dari koperasi karyawan yang berhasil mendewasakan ekonomi pekerja dan keluarganya </h3>
                             <p>Koperasi Simpan Pinjam Dana Jaya Sentosa merupakan pendewasaan usaha yang datang dari koperasi karyawan WDX Lumajang. Dengan berbagai dampak positif yang dirasa mensejahterakan para karyawan dan keluarganya, kini dengan nama Dana Jaya Sentosa, koperasi simpan pinjam ini membuka peluang masyarakat luas untuk turut merasakan kesejahteraan dengan risiko rendah, terukur dan terjaga.</p>
                             <p>Semenjak peresmian usahanya di April 2022, kini Dana Jaya Sentosa telah membuka cabang kedua di Sidoarjo pada September 2023 untuk menjangkau masyarakat luas.</p>
                         </div>
-                        <div class="img-section-2">
+                        <div class="img-section-2 wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                             <img src="assets/images/about-images/img-about-section2.jpg" class="img-fluid" alt="">
                             <div class="location">
                                 <h3>WDX Headquarter</h3>
@@ -57,15 +57,15 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>VISI & MISI</h3>
                         </div>
                         <div class="right-content bg-dark-orange">
-                            <div class="visi">
+                            <div class="visi wow animate__animated animate__fadeInUp" data-wow-delay="0.5s" data-wow-duration="0.8s" data-wow-offset="10">
                                 <h3>Visi</h3>
                                 <p>Menjadi Lembaga Keuangan yang Berperan Aktif dalam Meningkatkan Daya Beli dan Pendapatan Masyarakat. </p>
                             </div>
-                            <div class="misi">
+                            <div class="misi wow animate__animated animate__fadeInUp" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                 <h3>Misi</h3>
                                 <ul class="list-visi">
                                     <li>Memberikan layanan simpan pinjam yang mudah diakses, terjangkau, dan bersahabat bagi masyarakat ekonomi kecil.</li>
@@ -82,11 +82,11 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>KULTUR PERUSAHAAN</h3>
                         </div>
                         <div class="list-kultur right-content">
-                            <div class="item">
+                            <div class="item wow animate__animated animate__fadeInUp" data-wow-delay="0.4s" data-wow-offset="20">
                                 <div class="img">
                                     <img src="assets/images/about-images/icon1.png" class="img-fluid" alt="">
                                 </div>
@@ -99,7 +99,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="item wow animate__animated animate__fadeInUp" data-wow-delay="0.6s" data-wow-offset="20">
                                 <div class="img">
                                     <img src="assets/images/about-images/icon2.png" class="img-fluid" alt="">
                                 </div>
@@ -112,7 +112,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="item wow animate__animated animate__fadeInUp" data-wow-delay="0.4s" data-wow-offset="20">
                                 <div class="img">
                                     <img src="assets/images/about-images/icon3.png" class="img-fluid" alt="">
                                 </div>
@@ -125,7 +125,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="item wow animate__animated animate__fadeInUp" data-wow-delay="0.6s" data-wow-offset="20">
                                 <div class="img">
                                     <img src="assets/images/about-images/icon4.png" class="img-fluid" alt="">
                                 </div>
@@ -148,10 +148,10 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">
-                        <div class="description">
+                        <div class="description wow animate__animated animate__fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s" data-wow-offset="10">
                             <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
                         </div>
-                        <div class="btn-contact">
+                        <div class="btn-contact wow animate__animated animate__fadeInLeft" data-wow-delay="1s" data-wow-duration="1.2s" data-wow-offset="20">
                             <a href="contact" class="nav-link d-flex align-items-center justify-content-center">
                                 <img src="assets/images/home-images/icon-right-black.png" class="img-fluid" alt="">
                                 HUBUNGI KAMI

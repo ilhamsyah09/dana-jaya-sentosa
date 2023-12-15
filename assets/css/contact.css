@@ -111,6 +111,9 @@ section.inside_section_2 .background-block .rights_background {
 section.home6.contact-us .outer-content .inside-content .wrapper_icon_sosmed {
     gap: 23px;
 }
+section#contact .outer-content {
+    padding-right: 0 !important;
+}   
 
 @media (max-width: 1470px) {
     section.inside_section_2 .box-banner-info {

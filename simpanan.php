@@ -9,7 +9,7 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
-                        <div class="right-caption">
+                        <div class="right-caption wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                             <h4>SIMPANAN PASTI UNTUNG</h4>
                             <h3>Dana Jaya Sentosa menyadari
                                 bahwa masyarakat kecil
@@ -24,7 +24,7 @@
                     </div>
                 </div>
             </div>
-            <div class="img-hero">
+            <div class="img-hero wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-offset="10">
                 <img src="assets/images/simpanan-images/img-hero-simpanan.png" class="img-fluid" alt="">
             </div>
         </section>
@@ -34,7 +34,7 @@
                 <div class="inside-content">
                     <div class="left-title"></div>
                     <div class="inside_content_right bg-dark-orange">
-                        <div class="box-caption">
+                        <div class="box-caption wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <p>Dengan "Simpanan Pasti Untung," setiap nasabah tidak hanya membangun kebiasaan menabung yang positif, tetapi juga mendapatkan keuntungan yang pasti. Tingkat bunga yang kompetitif dan kebijakan keuntungan yang transparan menjadi landasan produk ini, memberikan kepastian bagi setiap penabung mengenai pertumbuhan tabungan.</p>
                         </div>
                     </div>
@@ -46,16 +46,16 @@
             <div class="custom container">
                 <div class="outer-content list_card_description">
                     <div class="inside-content item" id="simpanan-sukarela">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>SIMPANAN SUKARELA</h3>
                         </div>
-                        <div class="card-content bg-green">
+                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <div class="row g-0">
                                 <div class="col-md-6">
                                     <img src="assets/images/simpanan-images/img-content1.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="box-caption">
+                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <div class="text-top">
                                             <h3>Simpanan berbunga dengan setoran awal yang sangat terjangkau, dimulai dari 15 ribu rupiah.</h3>
                                             <p><span>Cocok untuk:</span>
@@ -72,16 +72,16 @@
                         </div>
                     </div>
                     <div class="inside-content item" id="simpanan-hariraya">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>SIMPANAN HARI RAYA</h3>
                         </div>
-                        <div class="card-content bg-green">
+                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <div class="row g-0">
                                 <div class="col-md-6">
                                     <img src="assets/images/simpanan-images/img-content2.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="box-caption">
+                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <div class="text-top">
                                             <h3>Simpanan berbunga tinggi yang siap dipetik saat hari raya, dengan bonus hadiah parcel.</h3>
                                             <p><span>Cocok untuk:</span>
@@ -98,16 +98,16 @@
                         </div>
                     </div>
                     <div class="inside-content item" id="simpanan-bisnis">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>SIMPANAN BISNIS</h3>
                         </div>
-                        <div class="card-content bg-green">
+                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <div class="row g-0">
                                 <div class="col-md-6">
                                     <img src="assets/images/simpanan-images/img-content3.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="box-caption">
+                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <div class="text-top">
                                             <h3>Simpanan menguntungkan berbunga agresif dengan setoran awal hanya sebesar 500 ribu rupiah.</h3>
                                             <p><span>Cocok untuk:</span>
@@ -124,16 +124,16 @@
                         </div>
                     </div>
                     <div class="inside-content item" id="simpanan-masa">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>SIMPANAN MASA</h3>
                         </div>
-                        <div class="card-content bg-green">
+                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <div class="row g-0">
                                 <div class="col-md-6">
                                     <img src="assets/images/simpanan-images/img-content4.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="box-caption">
+                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <div class="text-top">
                                             <h3>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan nikmati hasilnya dalam 6 bulan ke depan.</h3>
                                             <p><span>Cocok untuk:</span>
@@ -150,16 +150,16 @@
                         </div>
                     </div>
                     <div class="inside-content item" id="simpanan-berjangka">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>SIMPANAN BERJANGKA</h3>
                         </div>
-                        <div class="card-content bg-green">
+                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <div class="row g-0">
                                 <div class="col-md-6">
                                     <img src="assets/images/simpanan-images/img-content5.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="box-caption">
+                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <div class="text-top">
                                             <h3>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah.</h3>
                                             <p><span>Cocok untuk:</span>
@@ -176,16 +176,16 @@
                         </div>
                     </div>
                     <div class="inside-content item" id="deposito">
-                        <div class="left-title">
+                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>DEPOSITO</h3>
                         </div>
-                        <div class="card-content bg-green">
+                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
                             <div class="row g-0">
                                 <div class="col-md-6">
                                     <img src="assets/images/simpanan-images/img-content6.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="box-caption">
+                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <div class="text-top">
                                             <h3>Program simpanan deposito berbunga tinggi untuk periode 1, 3, 6, atau 12 bulan.</h3>
                                             <p><span>Cocok untuk:</span>
@@ -209,10 +209,10 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">
-                        <div class="description">
+                        <div class="description wow animate__animated animate__fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s" data-wow-offset="10">
                             <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
                         </div>
-                        <div class="btn-contact">
+                        <div class="btn-contact wow animate__animated animate__fadeInLeft" data-wow-delay="1s" data-wow-duration="1.2s" data-wow-offset="20">
                             <a href="contact" class="nav-link d-flex align-items-center justify-content-center">
                                 <img src="assets/images/home-images/icon-right-black.png" class="img-fluid" alt="">
                                 HUBUNGI KAMI

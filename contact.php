@@ -9,7 +9,7 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content">
-                        <div class="right-caption">
+                        <div class="right-caption wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                             <h4>HUBUNGI KAMI</h4>
                             <h3>Dana Jaya Sentosa hadir di 
                                 Lumajang dan Sidoarjo, namun
@@ -24,7 +24,7 @@
                     </div>
                 </div>
             </div>
-            <div class="img-hero">
+            <div class="img-hero wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-offset="10">
                 <img src="assets/images/contact-images/img-hero-contact.png" class="img-fluid" alt="">
             </div>
         </section>
@@ -33,12 +33,12 @@
             <div class="background-block">
                 <div class="left"></div>
                 <div class="rights_background bg-orange">
-                    <div class="inner-contents">
+                    <div class="inner-contents wow animate__animated animate__fadeInUp" data-wow-delay="0.5s" data-wow-offset="10">
                         <!-- text-content -->
                         <p>Mungkin tanpa anda sadari bahwa impian anda dapat terwujud dengan risiko yang sangat terukur berkat bantuan perhitungan dari tim konsultan ekonomi Dana Jaya Sentosa. Temui tim kami segera dan bicarakan lebih lanjut tentang rencana finansial anda.</p>
 
                         <!-- // start box table has lines -->
-                        <div class="box-banner-info d-none d-md-block">
+                        <div class="box-banner-info d-none d-md-block wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="15">
                             <table>
                                 <tbody>
                                     <tr>
@@ -150,17 +150,17 @@
             <div class="custom container">
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">
-                        <div class="description">
+                        <div class="description wow animate__animated animate__fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s" data-wow-offset="10">
                             <h3>Mari terhubung dengan social media Dana Jaya Sentosa untuk terus mengikuti aneka promo dan berita terkini!</h3>
                         </div>
                         <div class="wrapper_icon_sosmed d-flex align-items-center">
-                            <a href="#" class="nav-link">
+                            <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="0.8s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-ig.png" class="img-fluid" alt="">
                             </a>
-                            <a href="#" class="nav-link">
+                            <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-fb.png" class="img-fluid" alt="">
                             </a>
-                            <a href="#" class="nav-link">
+                            <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1.2s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-yt.png" class="img-fluid" alt="">
                             </a>
                         </div>
