@@ -6,136 +6,136 @@
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                            <img src="assets/images/home-images/img-banner.jpg" class="d-block w-100" alt="...">
-                            <div class="view-caption d-none d-md-block">
-                                <div class="custom container">
-                                    <div class="inside-content d-flex align-items-center">
-                                        <div class="left-caption">
-                                            <h3>Berani Untuk Sukses!</h3>
-                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                                            <div class="btn-wrapper d-flex align-items-center">
-                                                <button class="btn green" type="button">
-                                                    AJUKAN PINJAMAN USAHA
-                                                </button>
-                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
-                                                    HUBUNGI KAMI
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="caption-mobile d-block d-md-none">
-                                <div class="custom container">
-                                    <div class="inside-content d-flex align-items-center">
+                        <img src="assets/images/home-images/img-banner.jpg" class="d-block w-100" alt="...">
+                        <div class="view-caption d-none d-md-block">
+                            <div class="custom container">
+                                <div class="inside-content d-flex align-items-center">
                                     <div class="left-caption">
-                                            <h3>Berani Untuk Sukses!</h3>
-                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                                            <div class="btn-wrapper d-flex align-items-center">
-                                                <button class="btn green" type="button">
-                                                    AJUKAN PINJAMAN USAHA
-                                                </button>
-                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
-                                                    HUBUNGI KAMI
-                                                </button>
-                                            </div>
+                                        <h3>Berani Untuk Sukses!</h3>
+                                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                        <div class="btn-wrapper d-flex align-items-center">
+                                            <button class="btn green" type="button">
+                                                AJUKAN PINJAMAN USAHA
+                                            </button>
+                                            <button class="btn orange" type="button" onclick="window.location.href='contact'">
+                                                HUBUNGI KAMI
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="tag-name">
-                                <h3>Lidia Suwarga</h3>
-                                <p>Pottery Heads</p>
-                                <p>Pelanggan Dana Jaya Sentosa</p>
                             </div>
                         </div>
-                        <div class="carousel-item">
-                            <img src="assets/images/home-images/img-banner.jpg" class="d-block w-100" alt="...">
-                            <div class="view-caption d-none d-md-block">
-                                <div class="custom container">
-                                    <div class="inside-content d-flex align-items-center">
-                                        <div class="left-caption">
-                                            <h3>Berani Untuk Sukses!</h3>
-                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                                            <div class="btn-wrapper d-flex align-items-center">
-                                                <button class="btn green" type="button">
-                                                    AJUKAN PINJAMAN USAHA
-                                                </button>
-                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
-                                                    HUBUNGI KAMI
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="caption-mobile d-block d-md-none">
-                                <div class="custom container">
-                                    <div class="inside-content d-flex align-items-center">
+                        <div class="caption-mobile d-block d-md-none">
+                            <div class="custom container">
+                                <div class="inside-content d-flex align-items-center">
                                     <div class="left-caption">
-                                            <h3>Berani Untuk Sukses!</h3>
-                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                                            <div class="btn-wrapper d-flex align-items-center">
-                                                <button class="btn green" type="button">
-                                                    AJUKAN PINJAMAN USAHA
-                                                </button>
-                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
-                                                    HUBUNGI KAMI
-                                                </button>
-                                            </div>
+                                        <h3>Berani Untuk Sukses!</h3>
+                                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                        <div class="btn-wrapper d-flex align-items-center">
+                                            <button class="btn green" type="button">
+                                                AJUKAN PINJAMAN USAHA
+                                            </button>
+                                            <button class="btn orange" type="button" onclick="window.location.href='contact'">
+                                                HUBUNGI KAMI
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="tag-name">
-                                <h3>Lidia Suwarga</h3>
-                                <p>Pottery Heads</p>
-                                <p>Pelanggan Dana Jaya Sentosa</p>
                             </div>
                         </div>
-                        <div class="carousel-item">
-                            <img src="assets/images/home-images/img-banner.jpg" class="d-block w-100" alt="...">
-                            <div class="view-caption d-none d-md-block">
-                                <div class="custom container">
-                                    <div class="inside-content d-flex align-items-center">
-                                        <div class="left-caption">
-                                            <h3>Berani Untuk Sukses!</h3>
-                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                                            <div class="btn-wrapper d-flex align-items-center">
-                                                <button class="btn green" type="button">
-                                                    AJUKAN PINJAMAN USAHA
-                                                </button>
-                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
-                                                    HUBUNGI KAMI
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="caption-mobile d-block d-md-none">
-                                <div class="custom container">
-                                    <div class="inside-content d-flex align-items-center">
+                        <div class="tag-name">
+                            <h3>Lidia Suwarga</h3>
+                            <p>Pottery Heads</p>
+                            <p>Pelanggan Dana Jaya Sentosa</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/images/home-images/img-banner.jpg" class="d-block w-100" alt="...">
+                        <div class="view-caption d-none d-md-block">
+                            <div class="custom container">
+                                <div class="inside-content d-flex align-items-center">
                                     <div class="left-caption">
-                                            <h3>Berani Untuk Sukses!</h3>
-                                                <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
-                                            <div class="btn-wrapper d-flex align-items-center">
-                                                <button class="btn green" type="button">
-                                                    AJUKAN PINJAMAN USAHA
-                                                </button>
-                                                <button class="btn orange" type="button" onclick="window.location.href='contact.php'">
-                                                    HUBUNGI KAMI
-                                                </button>
-                                            </div>
+                                        <h3>Berani Untuk Sukses!</h3>
+                                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                        <div class="btn-wrapper d-flex align-items-center">
+                                            <button class="btn green" type="button">
+                                                AJUKAN PINJAMAN USAHA
+                                            </button>
+                                            <button class="btn orange" type="button" onclick="window.location.href='contact'">
+                                                HUBUNGI KAMI
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tag-name">
-                                <h3>Lidia Suwarga</h3>
-                                <p>Pottery Heads</p>
-                                <p>Pelanggan Dana Jaya Sentosa</p>
+                        </div>
+                        <div class="caption-mobile d-block d-md-none">
+                            <div class="custom container">
+                                <div class="inside-content d-flex align-items-center">
+                                    <div class="left-caption">
+                                        <h3>Berani Untuk Sukses!</h3>
+                                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                        <div class="btn-wrapper d-flex align-items-center">
+                                            <button class="btn green" type="button">
+                                                AJUKAN PINJAMAN USAHA
+                                            </button>
+                                            <button class="btn orange" type="button" onclick="window.location.href='contact'">
+                                                HUBUNGI KAMI
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
+                        </div>
+                        <div class="tag-name">
+                            <h3>Lidia Suwarga</h3>
+                            <p>Pottery Heads</p>
+                            <p>Pelanggan Dana Jaya Sentosa</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/images/home-images/img-banner.jpg" class="d-block w-100" alt="...">
+                        <div class="view-caption d-none d-md-block">
+                            <div class="custom container">
+                                <div class="inside-content d-flex align-items-center">
+                                    <div class="left-caption">
+                                        <h3>Berani Untuk Sukses!</h3>
+                                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                        <div class="btn-wrapper d-flex align-items-center">
+                                            <button class="btn green" type="button">
+                                                AJUKAN PINJAMAN USAHA
+                                            </button>
+                                            <button class="btn orange" type="button" onclick="window.location.href='contact'">
+                                                HUBUNGI KAMI
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="caption-mobile d-block d-md-none">
+                            <div class="custom container">
+                                <div class="inside-content d-flex align-items-center">
+                                    <div class="left-caption">
+                                        <h3>Berani Untuk Sukses!</h3>
+                                        <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
+                                        <div class="btn-wrapper d-flex align-items-center">
+                                            <button class="btn green" type="button">
+                                                AJUKAN PINJAMAN USAHA
+                                            </button>
+                                            <button class="btn orange" type="button" onclick="window.location.href='contact'">
+                                                HUBUNGI KAMI
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tag-name">
+                            <h3>Lidia Suwarga</h3>
+                            <p>Pottery Heads</p>
+                            <p>Pelanggan Dana Jaya Sentosa</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -152,40 +152,40 @@
                             <div class="col-sm-12 col-md-6 col-lg-4">
                                 <div class="item">
                                     <img src="assets/images/home-images/img-dana-mudah1.jpg" class="img-fluid" alt="">
-                                <div class="text-caption">
-                                    <h3>Kredit Karyawan</h3>
-                                    <p>Dengan penghasilan tetap anda, banyak hal yang dapat anda beli dan wujudkan!</p>
-                                    <a href="dana-mudah.php#kredit-karyawan" class="nav-link d-flex align-items-center">
-                                        <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                        PELAJARI LEBIH LANJUT
-                                    </a>
-                                </div>
+                                    <div class="text-caption">
+                                        <h3>Kredit Karyawan</h3>
+                                        <p>Dengan penghasilan tetap anda, banyak hal yang dapat anda beli dan wujudkan!</p>
+                                        <a href="dana-mudah#kredit-karyawan" class="nav-link d-flex align-items-center">
+                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                            PELAJARI LEBIH LANJUT
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-4">
                                 <div class="item">
                                     <img src="assets/images/home-images/img-dana-mudah2.jpg" class="img-fluid" alt="">
-                                <div class="text-caption">
-                                    <h3>Kredit Multiguna</h3>
-                                    <p>Jadikan mimpimu kenyataan dengan program kredit yang sangat fleksibel dan bunga rendah!</p>
-                                    <a href="dana-mudah.php#kredit-multiguna" class="nav-link d-flex align-items-center">
-                                        <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                        PELAJARI LEBIH LANJUT
-                                    </a>
-                                </div>
+                                    <div class="text-caption">
+                                        <h3>Kredit Multiguna</h3>
+                                        <p>Jadikan mimpimu kenyataan dengan program kredit yang sangat fleksibel dan bunga rendah!</p>
+                                        <a href="dana-mudah#kredit-multiguna" class="nav-link d-flex align-items-center">
+                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                            PELAJARI LEBIH LANJUT
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-4">
                                 <div class="item">
                                     <img src="assets/images/home-images/img-dana-mudah3.jpg" class="img-fluid" alt="">
-                                <div class="text-caption">
-                                    <h3>Kredit Korporat</h3>
-                                    <p>Kembangkan lebih besar potensi usahamu menjadi skala yang sebelumnya hanya anda impikan!</p>
-                                    <a href="dana-mudah.php#kredit-korporat" class="nav-link d-flex align-items-center">
-                                        <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                        PELAJARI LEBIH LANJUT
-                                    </a>
-                                </div>
+                                    <div class="text-caption">
+                                        <h3>Kredit Korporat</h3>
+                                        <p>Kembangkan lebih besar potensi usahamu menjadi skala yang sebelumnya hanya anda impikan!</p>
+                                        <a href="dana-mudah#kredit-korporat" class="nav-link d-flex align-items-center">
+                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                            PELAJARI LEBIH LANJUT
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -206,86 +206,86 @@
                                 <h3>Dana Jaya Sentosa menyadari bahwa masyarakat kecil menghadapi tuntutan kehidupan yang berat sehari-harinya, oleh karena itu kami menyiapkan berbagai program tabungan menguntungkan yang bermula dengan setoran sangat kecil untuk sedikit demi sedikit mampu mernabung hingga meraih tujuan yang baik.</h3>
                             </div>
                             <div class="wrapper-list">
-                            <div class="list-metode">
-                                <div class="box-content d-flex align-items-start">
-                                    <div class="img">
-                                        <img src="assets/images/home-images/icon1.jpg"  class=d" alt="">
+                                <div class="list-metode">
+                                    <div class="box-content d-flex align-items-start">
+                                        <div class="img">
+                                            <img src="assets/images/home-images/icon1.jpg" class=d" alt="">
+                                        </div>
+                                        <div class="right-caption">
+                                            <h3>Simpanan Sukarela</h3>
+                                            <p>Simpanan berbunga dengan setoran awal mulai dari 15ribu rupiah!</p>
+                                            <a href="simpanan#simpanan-sukarela" class="nav-link d-flex align-items-center">
+                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                                PELAJARI LEBIH LANJUT
+                                            </a>
+                                        </div>
                                     </div>
-                                    <div class="right-caption">
-                                        <h3>Simpanan Sukarela</h3>
-                                        <p>Simpanan berbunga dengan setoran awal mulai dari 15ribu rupiah!</p>
-                                        <a href="simpanan.php#simpanan-sukarela" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                            PELAJARI LEBIH LANJUT
-                                        </a>
+                                    <div class="box-content d-flex align-items-start">
+                                        <div class="img">
+                                            <img src="assets/images/home-images/icon2.jpg" class="" alt="">
+                                        </div>
+                                        <div class="right-caption">
+                                            <h3>Simpanan Hari Raya</h3>
+                                            <p>Simpanan berbunga tinggi siap dipetik saat hari raya dan berhadiah parcel!</p>
+                                            <a href="simpanan#simpanan-hariraya" class="nav-link d-flex align-items-center">
+                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                                PELAJARI LEBIH LANJUT
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="box-content d-flex align-items-start">
+                                        <div class="img">
+                                            <img src="assets/images/home-images/icon3.jpg" class="" alt="">
+                                        </div>
+                                        <div class="right-caption">
+                                            <h3>Simpanan Bisnis</h3>
+                                            <p>Simpanan menguntungkan berbunga agresif dengan setoran awal hanya sebesar 500ribu rupiah</p>
+                                            <a href="simpanan#simpanan-bisnis" class="nav-link d-flex align-items-center">
+                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                                PELAJARI LEBIH LANJUT
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="box-content d-flex align-items-start">
+                                        <div class="img">
+                                            <img src="assets/images/home-images/icon4.jpg" class="" alt="">
+                                        </div>
+                                        <div class="right-caption">
+                                            <h3>Simpanan Masa</h3>
+                                            <p>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan rasakan nikmatnya di 6 bulan ke depan!</p>
+                                            <a href="simpanan#simpanan-masa" class="nav-link d-flex align-items-center">
+                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                                PELAJARI LEBIH LANJUT
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="box-content d-flex align-items-start">
+                                        <div class="img">
+                                            <img src="assets/images/home-images/icon5.jpg" class="" alt="">
+                                        </div>
+                                        <div class="right-caption">
+                                            <h3>Simpanan Berjangka</h3>
+                                            <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
+                                            <a href="simpanan#simpanan-berjangka" class="nav-link d-flex align-items-center">
+                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                                PELAJARI LEBIH LANJUT
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="box-content d-flex align-items-start">
+                                        <div class="img">
+                                            <img src="assets/images/home-images/icon6.jpg" class="" alt="">
+                                        </div>
+                                        <div class="right-caption">
+                                            <h3>Deposito</h3>
+                                            <p>Program simpanan deposito berbunga tinggi untuk periode 1 / 3 / 6 / 12 bulan</p>
+                                            <a href="simpanan#deposito" class="nav-link d-flex align-items-center">
+                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                                PELAJARI LEBIH LANJUT
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="box-content d-flex align-items-start">
-                                    <div class="img">
-                                        <img src="assets/images/home-images/icon2.jpg" class="" alt="">
-                                    </div>
-                                    <div class="right-caption">
-                                        <h3>Simpanan Hari Raya</h3>
-                                        <p>Simpanan berbunga tinggi siap dipetik saat hari raya dan berhadiah parcel!</p>
-                                        <a href="simpanan.php#simpanan-hariraya" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                            PELAJARI LEBIH LANJUT
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="box-content d-flex align-items-start">
-                                    <div class="img">
-                                        <img src="assets/images/home-images/icon3.jpg" class="" alt="">
-                                    </div>
-                                    <div class="right-caption">
-                                        <h3>Simpanan Bisnis</h3>
-                                        <p>Simpanan menguntungkan berbunga agresif dengan setoran awal hanya sebesar 500ribu rupiah</p>
-                                        <a href="simpanan.php#simpanan-bisnis" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                            PELAJARI LEBIH LANJUT
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="box-content d-flex align-items-start">
-                                    <div class="img">
-                                        <img src="assets/images/home-images/icon4.jpg" class="" alt="">
-                                    </div>
-                                    <div class="right-caption">
-                                        <h3>Simpanan Masa</h3>
-                                        <p>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan rasakan nikmatnya di 6 bulan ke depan!</p>
-                                        <a href="simpanan.php#simpanan-masa" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                            PELAJARI LEBIH LANJUT
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="box-content d-flex align-items-start">
-                                    <div class="img">
-                                        <img src="assets/images/home-images/icon5.jpg" class="" alt="">
-                                    </div>
-                                    <div class="right-caption">
-                                        <h3>Simpanan Berjangka</h3>
-                                        <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
-                                        <a href="simpanan.php#simpanan-berjangka" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                            PELAJARI LEBIH LANJUT
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="box-content d-flex align-items-start">
-                                    <div class="img">
-                                        <img src="assets/images/home-images/icon6.jpg" class="" alt="">
-                                    </div>
-                                    <div class="right-caption">
-                                        <h3>Deposito</h3>
-                                        <p>Program simpanan deposito berbunga tinggi untuk periode 1 / 3 / 6 / 12 bulan</p>
-                                        <a href="simpanan.php#deposito" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                            PELAJARI LEBIH LANJUT
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
                             </div>
                         </div>
                     </div>
@@ -309,7 +309,7 @@
                                     <p>Dana Jaya Sentosa telah membuktikan sepak terjang kesuksesan dalam pengelolaan dana masyarakat kecil, mewujudkan impian mulai dari berangkat umrah, hingga memampukan masyarakat untuk mendirikan usaha kecil mikro hingga usaha kecil menengah.</p>
                                     <p>Pengetahuan dan kepedulian Dana Jaya Sentosa terhadap masyarakat kecil ini lah yang menjadi dasar utama dalam merancang program simpanan maupun pinjaman yang menarik dan berorientasi kepada kemandirian pelanggan menuju kesuksesan.</p>
                                     <p>Spesialisasi Dana Jaya Sentosa membuat para pelanggan mengembangkan diri dengan pengelolaan dana yang aman, terpercaya dan berfaedah. Kami memahami kebutuhan tiap pelanggan yang unik dan spesifik, ijinkan Dana Jaya Sentosa mengenal anda lebih lanjut untuk mewujudkan kesuksesan anda.</p>
-                                    <a href="about.php" class="nav-link d-flex align-items-center">
+                                    <a href="about" class="nav-link d-flex align-items-center">
                                         <img src="assets/images/home-images/icon-right-black.png" class="img-fluid" alt="">
                                         PELAJARI LEBIH LANJUT
                                     </a>
@@ -379,12 +379,12 @@
                             <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
                         </div>
                         <div class="btn-contact">
-                            <a href="contact.php" class="nav-link d-flex align-items-center justify-content-center">
+                            <a href="contact" class="nav-link d-flex align-items-center justify-content-center">
                                 <img src="assets/images/home-images/icon-right-black.png" class="img-fluid" alt="">
                                 HUBUNGI KAMI
                             </a>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </section>
