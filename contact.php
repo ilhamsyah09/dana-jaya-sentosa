@@ -134,11 +134,7 @@
                                         
                                         <td>weslydistributionexchange@yahoo.com</td>
                                     </tr>
-                                    <tr>
-                                        <td><span>HOTLINE</span></td>
-                                        
-                                        <td></td>
-                                    </tr>
+                                    
                                 </tbody>
                             </table>
                         </div>
