@@ -25,6 +25,19 @@ header nav.navbar.navbar-expand-lg.stiky-header a.navbar-brand {
 header nav.navbar.navbar-expand-lg a.navbar-brand img {
     height: 100%;
 }
+header nav.navbar.navbar-expand-lg a.navbar-brand {
+    height: 100px;
+}
+button.navbar-toggler {
+    border: none;
+    outline: none !important;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.btn-close:focus {
+    box-shadow: none;
+}
 
 header nav .offcanvas-body {
     padding-bottom: 11px !important;
@@ -92,14 +105,16 @@ section.home1.main-banner {
 } 
 section.home1.carousel.main-banner .carousel-item {
     position: relative;
+    max-height: 924px;
 }
 section.home1.carousel.main-banner .carousel-item .view-caption {
     position: absolute;
-    top: 35%;
+    /* top: 35%; */
     left: 0;
     /* bottom: 42%; */
     display: flex;
     width: 100%;
+    top: 37.5%; /* test screen */
 
 }
 section.home1.main-banner .custom.container {
@@ -381,6 +396,9 @@ section.home5.pelanggan-kami .list-logo {
     padding: 88px 44px 73px 44px;
     max-width: 1377px;
     width: 100%;
+}
+section.home5.pelanggan-kami .inside-content {
+    padding-right: 23px;
 }
 /* home5 pelanggan kami end */
 

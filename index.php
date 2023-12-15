@@ -14,7 +14,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center">
-                                            <button class="btn green" type="button">
+                                            <button class="btn green" type="button"  onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -32,7 +32,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center">
-                                            <button class="btn green" type="button">
+                                            <button class="btn green" type="button"  onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -58,7 +58,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center">
-                                            <button class="btn green" type="button">
+                                            <button class="btn green" type="button"  onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -76,7 +76,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center">
-                                            <button class="btn green" type="button">
+                                            <button class="btn green" type="button"  onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -102,7 +102,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center">
-                                            <button class="btn green" type="button">
+                                            <button class="btn green" type="button"  onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -120,7 +120,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center">
-                                            <button class="btn green" type="button">
+                                            <button class="btn green" type="button"  onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">

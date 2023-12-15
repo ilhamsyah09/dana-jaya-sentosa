@@ -169,26 +169,7 @@
             </div>
         </section>
     </div>
-    <style type="text/css">
-	.table-container {
-        width: 100%;
-    }
-    .table-container .table-top {
-        width: 1057px !important;
-    }
-    .table-container .table-bottom {
-        width: 621px !important;
-    }
-    .table-container .table-top td.col-1 {
-        width: 36.53%;
-    }
-    .table-container .table-top td.col-2 {
-        width: 63.47%;
-    }
-    .table-container .table-bottom td.col-3 {
-        width: 100%;
-    }
-</style>
+    
     <?php include 'include/_part_footer.php' ?>
 </div>
 <?php include 'include/_footer.php' ?>
