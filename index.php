@@ -207,7 +207,7 @@
                             </div>
                             <div class="wrapper-list">
                                 <div class="list-metode">
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="10" data-wow-delay="0.2s" data-wow-duration="1s">
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="0.2s" data-wow-duration="1s">
                                         <div class="img">
                                             <img src="assets/images/home-images/icon1.jpg" class=d" alt="">
                                         </div>
@@ -220,7 +220,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="10" data-wow-delay="0.4s" data-wow-duration="1s">
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="0.4s" data-wow-duration="1s">
                                         <div class="img">
                                             <img src="assets/images/home-images/icon2.jpg" class="" alt="">
                                         </div>
@@ -233,7 +233,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="10" data-wow-delay="0.6s" data-wow-duration="1s">
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="0.6s" data-wow-duration="1s">
                                         <div class="img">
                                             <img src="assets/images/home-images/icon3.jpg" class="" alt="">
                                         </div>
@@ -246,7 +246,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="10" data-wow-delay="0.8s" data-wow-duration="1s">
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="0.8s" data-wow-duration="1s">
                                         <div class="img">
                                             <img src="assets/images/home-images/icon4.jpg" class="" alt="">
                                         </div>
@@ -259,7 +259,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="10" data-wow-delay="1s" data-wow-duration="1s">
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="1s" data-wow-duration="1s">
                                         <div class="img">
                                             <img src="assets/images/home-images/icon5.jpg" class="" alt="">
                                         </div>
@@ -272,7 +272,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="10" data-wow-delay="1.2s" data-wow-duration="1s">
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="1.2s" data-wow-duration="1s">
                                         <div class="img">
                                             <img src="assets/images/home-images/icon6.jpg" class="" alt="">
                                         </div>

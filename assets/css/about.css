@@ -225,9 +225,49 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
 }
 /* inside_section$ pg_about end */
 
+
+@media (max-width: 1740px) {
+    section.inside_section_1.pg_about.bg-dark-green {
+        padding-bottom: 66px;
+    }
+}
+
+@media (max-width: 1620px) {
+    section.inside_section_1.pg_about.bg-dark-green {
+        padding-bottom: 54px !important;
+    }
+    section.inside_section_2 .inside_content_right.bg-green {
+        padding-top: 130px;
+    }
+    section.inside_section_2 .left-title {
+        padding-top: 130px;
+    }
+}
+
+@media (max-width: 1580px) {
+    section.inside_section_1.pg_about .img-hero {
+        top: 27.5%;
+    }
+    section.inside_section_2 .inside_content_right.bg-green {
+        padding-top: 90px;
+    }
+    section.inside_section_2 .left-title {
+        padding-top: 90px;
+    }
+    section.inside_section_1 .inside-content .right-caption p {
+        font-size: 21px;
+    }
+    section.inside_section_1 .inside-content .right-caption .name p {
+        margin-bottom: 0;
+    }
+}
+
 @media (max-width: 1450px) {
     section.inside_section_2 .inside_content_right .img-section-2 {
         width: 380px;
+    }
+    section.inside_section_1.pg_about .img-hero {
+        top: 29%;
     }
 }
 
@@ -236,10 +276,19 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
         font-size: 37px;
     }
     section.inside_section_2 .inside_content_right .right-caption p {
-        font-size: 18px;
+        font-size: 17px;
     }
     section.inside_section_2 .inside_content_right.bg-green {
-        padding-top: 74px;
+        padding-top: 90px;
+    }
+    section.inside_section_1.pg_about .img-hero {
+        top: 32%;
+    }
+    section.inside_section_1 .inside-content .right-caption p {
+        margin-bottom: 18px;
+    }
+    section.inside_section_1.pg_about.bg-dark-green {
+        padding-bottom: 34px !important;
     }
 }
 
@@ -251,11 +300,38 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
         transform: translateX(-39%);
         bottom: 20px;
     }
+    section.inside_section_1.pg_about .img-hero {
+        width: 620px;
+    }
+    section.inside_section_1 .inside-content .right-caption p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1150px) {
+    section.inside_section_1.pg_about .img-hero {
+        width: 580px;
+    }
+    section.inside_section_1 .inside-content .right-caption h3 {
+        margin-bottom: 12px;
+    }
 }
 
 @media (max-width: 1024px) {
     section.inside_section_2 .inside_content_right .img-section-2 {
         width: 270px;
+    } 
+    section.inside_section_1.pg_about .img-hero {
+        width: 520px;
+    }
+    section.inside_section_1 .inside-content .right-caption {
+        padding-right: 0;
+    }
+    section.inside_section_1 .inside-content .right-caption p {
+        font-size: 17px;
+    }
+    section.inside_section_1.pg_about .img-hero {
+        top: 29%;
     }
 
 

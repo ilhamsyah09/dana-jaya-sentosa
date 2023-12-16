@@ -3,7 +3,7 @@
     <?php include 'include/_header.php' ?>
     <div class="middle-content">
         <section class="inside_section_1 pg_simpanan bg-dark-green">
-            <div class="img-hero-mobile d-block d-md-none">
+            <div class="img-hero-mobile d-block d-lg-none">
                 <img src="assets/images/simpanan-images/img-hero-simpanan.png" class="img-fluid" alt="">
             </div>
             <div class="custom container">
