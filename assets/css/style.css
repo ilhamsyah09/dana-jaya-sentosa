@@ -819,6 +819,12 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     header nav.navbar.navbar-expand-lg.stiky-header a.navbar-brand {
         height: auto;
     }
+    header nav.navbar-expand-lg.navbar-dark.bg-dark {
+        padding: 8px 0 !important;
+    }
+    header nav.navbar.navbar-expand-lg a.navbar-brand {
+        height: auto !important;
+    }
     header nav.navbar-expand-lg.stiky-header.navbar-dark.bg-dark {
         padding: 8px 0 !important;
     }
