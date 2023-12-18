@@ -335,8 +335,8 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
     section.inside_section_1.pg_about .img-hero {
         width: 580px;
     }
-    section.inside_section_1 .inside-content .right-caption h3 {
-        margin-bottom: 12px;
+    section.inside_section_1.pg_about .inside-content .right-caption h3 {
+        margin-bottom: 12px !important;
     }
     section.inside_section_4 .inside-content .list-kultur .item {
         max-width: 400px;
@@ -473,7 +473,7 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
 
 @media (max-width: 767px) {
     section.inside_section_2 .inside_content_right .right-caption h3 {
-        font-size: 24px;
+        font-size: 22px;
     }
     section.inside_section_2 .inside_content_right .right-caption p {
         font-size: 15px;

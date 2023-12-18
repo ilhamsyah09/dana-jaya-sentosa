@@ -590,8 +590,18 @@ section#contact {
     section.inside_section_1 .inside-content .right-caption {
         padding-right: 20%;
     }
-    section.inside_section_1 .outer-content {
+    section.inside_section_1 .outer-content,
+    section.inside_section_1.pg_simpanan .outer-content {
         padding-top: 30px;
+    }
+    section.inside_section_1.bg-dark-green,
+    section.inside_section_1.pg_dana_mudah.bg-dark-green,
+    section.inside_section_1.pg_simpanan.bg-dark-green,
+    section.inside_section_1.pg_contact.bg-dark-green {
+        padding-bottom: 36px !important;
+    }
+    section.inside_section_1 .inside-content .right-caption h3 {
+        font-size: 19px;
     }
 }
 
@@ -600,7 +610,7 @@ section#contact {
         width: 400px;
     }
     section.inside_section_1 .inside-content .right-caption h3 {
-        font-size: 21px;
+        font-size: 18px;
     } 
     section.inside_section_1 .inside-content .right-caption h4 {
         font-size: 14px;
@@ -637,7 +647,12 @@ section#contact {
         flex-wrap: wrap;
     }
     section.inside_section_1 .inside-content .right-caption h3 {
-        font-size: 19px;
+        font-size: 15px;
+        line-height: 1.5;
+        margin-bottom: 0 !important;
+    }
+    section.inside_section_1 .inside-content .right-caption h4 {
+        font-size: 14px;
     }
     section.inside_section_1 .inside-content .right-caption h4 {
         margin-bottom: 16px;
@@ -649,6 +664,16 @@ section#contact {
     section.inside_section_1 .inside-content .right-caption .name p span {
         font-size: 14px;
     }
+    section.inside_section_1.bg-dark-green,
+    section.inside_section_1.pg_dana_mudah.bg-dark-green,
+    section.inside_section_1.pg_simpanan.bg-dark-green,
+    section.inside_section_1.pg_contact.bg-dark-green {
+        padding-bottom: 34px !important;
+    }
+    
+
+
+
     section.inside_section_2.pg_dana_mudah.bg-dark-orange,
     section.inside_section_2.pg_simpanan.bg-dark-orange {
         background-color: #b86028;

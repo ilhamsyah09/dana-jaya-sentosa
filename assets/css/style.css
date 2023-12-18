@@ -43,6 +43,7 @@ header nav.navbar.navbar-expand-lg a.navbar-brand {
 button.navbar-toggler {
     border: none;
     outline: none !important;
+    padding: 0;
 }
 .navbar-toggler:focus {
     box-shadow: none;
@@ -703,6 +704,13 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     header nav .offcanvas {
         transition: transform 0.3s ease-in-out ;
     }
+    header nav .offcanvas-body .nav-item a.nav-link {
+        font-size: 15px;
+        padding-left: 0;
+    }
+    header nav .offcanvas-body .navbar-nav.contact-wa a.nav-link {
+        padding-left: 0;
+    }
     
     /* header end */
 
@@ -828,6 +836,9 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     header nav.navbar-expand-lg.stiky-header.navbar-dark.bg-dark {
         padding: 8px 0 !important;
     }
+    header nav .offcanvas-body .nav-item a.nav-link {
+        padding: 4px 0;
+    }
     /* header end */
 
 
@@ -943,12 +954,15 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
         padding-top: 38px;
     }
     section.home6.contact-us .inside-content .description h3 {
-        font-size: 18px;
+        font-size: 16px;
     }
     section.home6.contact-us .inside-content .btn-contact a.nav-link {
-        font-size: 16px;
+        /* font-size: 16px;
         width: 240px;
-        height: 38px;
+        height: 38px; */
+        font-size: 14px;
+        width: 210px;
+        height: 34px;
     }
     section.home6.contact-us .inside-content .description {
         padding-bottom: 42px;
