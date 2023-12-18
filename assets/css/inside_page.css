@@ -585,7 +585,7 @@ section#contact {
         padding-top: 70px;
     }
     section.inside_section_1 .img-hero-mobile img {
-        width: 991px;
+        width: 100%;
     }
     section.inside_section_1 .inside-content .right-caption {
         padding-right: 20%;
