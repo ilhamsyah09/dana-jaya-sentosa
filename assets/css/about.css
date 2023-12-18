@@ -508,6 +508,7 @@ section.inside_section_4 .inside-content .list-kultur .item .box-caption ul {
     }
     section.inside_section_3 .inside-content .right-content h3 {
         margin-bottom: 20px;
+        font-size: 28px;
     }
     section.inside_section_3 .inside-content .right-content {
         flex-direction: column;
