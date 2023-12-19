@@ -57,7 +57,7 @@
                                 <div class="col-md-6">
                                     <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <p><span>Kredit Karyawan, </span>solusi finansial yang dihadirkan dengan perhitungan yang cermat sesuai dengan kemampuan rata-rata pendapatan karyawan ekonomi kecil di Indonesia. Produk ini memberikan akses mudah untuk mendukung acara penting dalam hidup, seperti pernikahan, umroh, atau pembelian barang elektronik. Dengan Kredit Karyawan, kami berkomitmen memberikan bantuan finansial yang tidak hanya terjangkau tetapi juga memberikan kelegaan bagi masyarakat kecil dalam merencanakan momen spesial mereka.</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM KREDIT KARYAWAN
                                         </a>
@@ -78,7 +78,7 @@
                                 <div class="col-md-6">
                                     <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <p><span>Kredit Multiguna, </span>produk pinjaman untuk berbagai kebutuhan, termasuk pembukaan usaha kecil. Kami percaya bahwa setiap individu memiliki potensi untuk meraih kesuksesan, dengan Kredit Multiguna, masyarakat mampu mewujudkan impian dalam memulai usaha kecil. Produk ini tidak hanya memberikan dana yang diperlukan tetapi juga disesuaikan dengan jangka waktu dan tingkat bunga yang terjangkau, memberikan keamanan finansial dan memberikan dorongan untuk mengembangkan usaha mereka.</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM KREDIT KARYAWAN
                                         </a>
@@ -99,7 +99,7 @@
                                 <div class="col-md-6">
                                     <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <p><span>Kredit Korporat, </span>produk yang ditawarkan kepada masyarakat yang memiliki impian mendirikan usaha sampingan dengan skala yang lebih besar, seperti membuka toko atau kafe. Karena modal untuk usaha seperti ini dapat cukup besar, itulah sebabnya Kredit Korporat dirancang dengan persyaratan yang dapat dijangkau dan pengembalian jangka panjang. Kami berkomitmen membantu mewujudkan impian dan mencapai keberhasilan dengan tingkat risiko yang rendah dan terukur agar masyarakat berani bermimpi besar dan meraih kesuksesan.</p>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM KREDIT KARYAWAN
                                         </a>

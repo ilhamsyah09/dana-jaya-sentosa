@@ -62,7 +62,7 @@
                                                 <br>Individu yang ingin memulai kebiasaan menabung dengan mudah tanpa membebani keuangan mereka secara signifikan. Cocok untuk semua kalangan masyarakat.
                                             </p>
                                         </div>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN SUKARELA
                                         </a>
@@ -88,7 +88,7 @@
                                                 <br>Individu yang ingin mengumpulkan dana khusus untuk merayakan momen penting seperti Hari Raya dan merasakan kegembiraan hadiah ekstra di momen spesial.
                                             </p>
                                         </div>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN SUKARELA
                                         </a>
@@ -114,7 +114,7 @@
                                                 <br>Pengusaha kecil dan menengah yang mencari opsi menabung yang memberikan tingkat keuntungan yang lebih tinggi, bisa digunakan untuk nasabah yang ingin meningkatkan modal bisnis hanya dari sekedar menyisihkan penghasilan.
                                             </p>
                                         </div>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN SUKARELA
                                         </a>
@@ -140,7 +140,7 @@
                                                 <br>Mahasiswa, pekerja paruh waktu, atau siapa pun yang menginginkan fleksibilitas dalam menabung dengan setoran yang dapat disesuaikan dengan kondisi keuangan.
                                             </p>
                                         </div>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN SUKARELA
                                         </a>
@@ -166,7 +166,7 @@
                                                 <br>Individu yang menginginkan kepastian hasil investasi dalam jangka waktu tertentu, terutama bagi yang memiliki tujuan keuangan jangka menengah.
                                             </p>
                                         </div>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN SUKARELA
                                         </a>
@@ -192,7 +192,7 @@
                                                 <br>Nasabah yang memiliki visi keuangan jangka panjang dan mencari instrumen investasi yang memberikan kestabilan dan keuntungan yang lebih tinggi.
                                             </p>
                                         </div>
-                                        <a href="#" class="nav-link d-flex align-items-center">
+                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN SUKARELA
                                         </a>

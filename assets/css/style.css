@@ -998,9 +998,30 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     /* footer end */
 }
 
-/* home1 main-banner end */
-/* home2 dana mudah end */
-/* home3 simpanan end */
-/* home4 tentang kami end */
-/* home5 pelanggan kami end */
-/* home6 contact us end */
+.modal .modal-content {
+    background-color: #ffff;
+}
+.modal .modal-header {
+    padding: 16px;
+}
+.modal .modal-header img {
+    width: 250px;
+}
+.modal .modal-content h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 20px;
+}
+.modal .modal-content a {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0b162e;
+}
+.modal .modal-content a img {
+    width: 28px;
+    height: 28px;
+}
