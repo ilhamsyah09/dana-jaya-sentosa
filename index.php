@@ -314,7 +314,7 @@
                                         PELAJARI LEBIH LANJUT
                                     </a>
                                 </div>
-                                <div class="img-mobile wow animate__animated animate__fadeInRight" data-wow-delay="1s">
+                                <div class="img-mobile">
                                     <img src="assets/images/home-images/img-tentang-kami.jpg" class="img-fluid d-lg-none" alt="">
                                 </div>
                             </div>

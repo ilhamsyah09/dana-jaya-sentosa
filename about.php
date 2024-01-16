@@ -32,7 +32,7 @@
                         <h3>SEJARAH KAMI</h3>
                     </div>
                     <div class="inside_content_right bg-green">
-                        <div class="right-caption wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-offset="10">
+                        <div class="right-caption wow animate__animated animate__fadeInDown" data-wow-delay="0.5s" data-wow-offset="10">
                             <h3>Bermula dari koperasi karyawan yang berhasil mendewasakan ekonomi pekerja dan keluarganya </h3>
                             <p>Koperasi Simpan Pinjam Dana Jaya Sentosa merupakan pendewasaan usaha yang datang dari koperasi karyawan WDX Lumajang. Dengan berbagai dampak positif yang dirasa mensejahterakan para karyawan dan keluarganya, kini dengan nama Dana Jaya Sentosa, koperasi simpan pinjam ini membuka peluang masyarakat luas untuk turut merasakan kesejahteraan dengan risiko rendah, terukur dan terjaga.</p>
                             <p>Semenjak peresmian usahanya di April 2022, kini Dana Jaya Sentosa telah membuka cabang kedua di Sidoarjo pada September 2023 untuk menjangkau masyarakat luas.</p>

@@ -1,4 +1,4 @@
-<?php include 'include/_head.php' ?> 
+<?php include 'include/_head.php' ?>
 <div class="wrapper">
     <?php include 'include/_header.php' ?>
     <div class="middle-content">
@@ -11,7 +11,7 @@
                     <div class="inside-content">
                         <div class="right-caption wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                             <h4>HUBUNGI KAMI</h4>
-                            <h3>Dana Jaya Sentosa hadir di 
+                            <h3>Dana Jaya Sentosa hadir di
                                 Lumajang dan Sidoarjo, namun
                                 membuka kesempatan pelayanan
                                 online untuk menjangkau lebih
@@ -38,41 +38,58 @@
                         <p>Mungkin tanpa anda sadari bahwa impian anda dapat terwujud dengan risiko yang sangat terukur berkat bantuan perhitungan dari tim konsultan ekonomi Dana Jaya Sentosa. Temui tim kami segera dan bicarakan lebih lanjut tentang rencana finansial anda.</p>
 
                         <!-- // start box table has lines -->
-                        <div class="box-banner-info d-none d-md-block wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="15">
+                        <div class="box-banner-info d-none d-sm-block">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td class="col-1"><span>&nbsp;</span></td>
+                                        <td class="col-2 text-start">
+                                            <span>Kantor Pusat <br><br></span>
+                                            Jl. Fatahillah 5, Tompokersan <br>
+                                            Kec./Kab. Lumajang
+                                        </td>
+                                        <td class="col-3">&nbsp;</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="box-banner-info pt-0 d-none d-md-block wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="15">
                             <table>
                                 <tbody>
                                     <tr>
                                         <td class="col-1"><span>KOTA</span></td>
-                                        <td class="col-2">LUMAJANG</td>
+                                        <td class="col-2">Kantor Cabang</td>
                                         <td class="col-3">SIDOARJO</td>
                                     </tr>
                                     <tr>
                                         <td><span>ALAMAT</span></td>
-                                        <td>Jl. Gubernur Suryo No.18, Tompokersan
-                                            <br> Kec. Lumajang, Kabupaten Lumajang
-                                            <br> Jawa Timur 67316</td>
-                                        <td>
-                                            Jl. Gubernur Suryo No.18, Tompokersan
-                                            <br> Kec. Lumajang, Kabupaten Lumajang
+                                        <td>PT. WDX <br>
+                                        Jl. Gubernur Suryo No.18, Lt. 3
+                                            <br>Tompokersan, Kec./Kab. Lumajang
                                             <br> Jawa Timur 67316
+                                        </td>
+                                        <td>
+                                            Sirie Blok Q-50 <br>
+                                            Jl. Lingkar Timur km 5,5 <br>
+                                            Sidoarjo
                                         </td>
                                     </tr>
                                     <tr>
                                         <td><span>TELEPON</span></td>
-                                        <td>0812 3500 5555</td>
-                                        <td>0812 3500 5555</td>
+                                        <td>+62813 8883 1567</td>
+                                        <td>+62813 8883 1567</td>
                                     </tr>
                                     <tr>
                                         <td><span>EMAIL</span></td>
-                                        <td>weslydistributionexchange@yahoo.com</td>
-                                        <td>weslydistributionexchange@yahoo.com</td>
+                                        <td>ksp.djs@gmail.com</td>
+                                        <td>ksp.djs@gmail.com</td>
                                     </tr>
                                     <tr>
                                         <td><span>HOTLINE</span></td>
-                                        <td class="last">0812 3456 8888</td>
+                                        <td class="last">+62822 3089 1888</td>
                                         <td></td>
                                     </tr>
-                                    
+
 
                                 </tbody>
                             </table>
@@ -83,58 +100,72 @@
                                 <tbody>
                                     <tr>
                                         <td class="col-1"><span>KOTA</span></td>
-                                        <td class="col-2">LUMAJANG</td>
-                                        
+                                        <td class="col-2">Kantor Pusat</td>
                                     </tr>
                                     <tr>
                                         <td><span>ALAMAT</span></td>
                                         <td>
-                                            Jl. Gubernur Suryo No.18, Tompokersan
-                                            <br> Kec. Lumajang, Kabupaten Lumajang
+                                            Jl. Fatahillah 5, Tompokersan <br>
+                                            Kec./Kab. Lumajang
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td class="col-1"><span>KOTA</span></td>
+                                        <td class="col-2">Kantor Cabang</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td><span>ALAMAT</span></td>
+                                        <td>
+                                            Jl. Gubernur Suryo No.18, Lt. 3
+                                            <br>Tompokersan, Kec./Kab. Lumajang
                                             <br> Jawa Timur 67316
                                         </td>
                                     </tr>
                                     <tr>
                                         <td><span>TELEPON</span></td>
-                                        <td>0812 3500 5555</td>
-                                        
+                                        <td>+62813 8883 1567</td>
+
                                     </tr>
                                     <tr>
                                         <td><span>EMAIL</span></td>
-                                        <td>weslydistributionexchange@yahoo.com</td>
-                                        
+                                        <td>ksp.djs@gmail.com</td>
+
                                     </tr>
                                     <tr>
                                         <td><span>HOTLINE</span></td>
-                                        <td class="last">0812 3456 8888</td>
+                                        <td class="last">+62822 3089 1888</td>
                                     </tr>
                                 </tbody>
                                 <tbody>
                                     <tr>
                                         <td class="col-1"><span>KOTA</span></td>
-                                        
+
                                         <td class="col-3">SIDOARJO</td>
                                     </tr>
                                     <tr>
                                         <td><span>ALAMAT</span></td>
-                                        
+
                                         <td>
-                                            Jl. Gubernur Suryo No.18, Tompokersan
-                                            <br> Kec. Lumajang, Kabupaten Lumajang
-                                            <br> Jawa Timur 67316
+                                            Sirie Blok Q-50 <br>
+                                            Jl. Lingkar Timur km 5,5 <br>
+                                            Sidoarjo
                                         </td>
                                     </tr>
                                     <tr>
                                         <td><span>TELEPON</span></td>
-                                       
-                                        <td>0812 3500 5555</td>
+                                        <td>+62813 8883 1567</td>
                                     </tr>
                                     <tr>
                                         <td><span>EMAIL</span></td>
-                                        
-                                        <td>weslydistributionexchange@yahoo.com</td>
+
+                                        <td>ksp.djs@gmail.com</td>
                                     </tr>
-                                    
+
                                 </tbody>
                             </table>
                         </div>
@@ -164,12 +195,12 @@
                                 <img src="assets/images/contact-images/icon-yt.png" class="img-fluid" alt="">
                             </a>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </section>
     </div>
-    
+
     <?php include 'include/_part_footer.php' ?>
 </div>
 <?php include 'include/_footer.php' ?>
