@@ -90,7 +90,7 @@
                                         </div>
                                         <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN SUKARELA
+                                            ISI FORM SIMPINAN HARI RAYA
                                         </a>
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@
                                         </div>
                                         <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN SUKARELA
+                                            ISI FORM SIMPINAN BISNIS
                                         </a>
                                     </div>
                                 </div>
@@ -142,7 +142,7 @@
                                         </div>
                                         <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN SUKARELA
+                                            ISI FORM SIMPINAN MASA
                                         </a>
                                     </div>
                                 </div>
@@ -168,14 +168,14 @@
                                         </div>
                                         <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN SUKARELA
+                                            ISI FORM SIMPINAN BERJANGKA
                                         </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="inside-content item" id="deposito">
+                    <div class="inside-content item d-none" id="deposito">
                         <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
                             <h3>DEPOSITO</h3>
                         </div>

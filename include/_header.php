@@ -32,7 +32,7 @@
                     </ul>
                     <ul class="navbar-nav  contact-wa">
                         <li class="nav-item animate__animated animate__fadeInDown delay-500ms">
-                            <a href="#" class="nav-link">
+                            <a href="https://wa.me/+6281388831567" class="nav-link">
                                 <img src="assets/images/home-images/wa-logo.png" class="img-fluid" alt="">
                             </a>
                         </li>

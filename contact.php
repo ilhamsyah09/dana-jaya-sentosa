@@ -12,7 +12,7 @@
                         <div class="right-caption wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                             <h4>HUBUNGI KAMI</h4>
                             <h3>Dana Jaya Sentosa hadir di
-                                Lumajang dan Sidoarjo, namun
+                                Lumajang, namun
                                 membuka kesempatan pelayanan
                                 online untuk menjangkau lebih
                                 banyak masyarakat ekonomi kecil
@@ -86,7 +86,7 @@
                                     </tr>
                                     <tr>
                                         <td><span>HOTLINE</span></td>
-                                        <td class="last">+62822 3089 1888</td>
+                                        <td class="last">+62813 8883 1567</td>
                                         <td></td>
                                     </tr>
 
@@ -138,7 +138,7 @@
                                     </tr>
                                     <tr>
                                         <td><span>HOTLINE</span></td>
-                                        <td class="last">+62822 3089 1888</td>
+                                        <td class="last">+62813 8883 1567</td>
                                     </tr>
                                 </tbody>
                                 <tbody>
@@ -185,10 +185,10 @@
                             <h3>Mari terhubung dengan social media Dana Jaya Sentosa untuk terus mengikuti aneka promo dan berita terkini!</h3>
                         </div>
                         <div class="wrapper_icon_sosmed d-flex align-items-center">
-                            <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="0.8s" data-wow-offset="10">
+                            <a href="https://www.instagram.com/ksp_danajayasentosa/" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="0.8s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-ig.png" class="img-fluid" alt="">
                             </a>
-                            <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="10">
+                            <a href="https://www.facebook.com/profile.php?id=61550239521302" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-fb.png" class="img-fluid" alt="">
                             </a>
                             <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1.2s" data-wow-offset="10">
