@@ -57,7 +57,7 @@
                                 <div class="col-md-6">
                                     <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
                                         <p><span>Kredit Karyawan, </span>solusi finansial yang dihadirkan dengan perhitungan yang cermat sesuai dengan kemampuan rata-rata pendapatan karyawan ekonomi kecil di Indonesia. Produk ini memberikan akses mudah untuk mendukung acara penting dalam hidup, seperti pernikahan, umroh, atau pembelian barang elektronik. Dengan Kredit Karyawan, kami berkomitmen memberikan bantuan finansial yang tidak hanya terjangkau tetapi juga memberikan kelegaan bagi masyarakat kecil dalam merencanakan momen spesial mereka.</p>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
+                                        <a href="#kreditKaryawan" data-bs-toggle="modal" data-bs-target="#kreditKaryawan" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM KREDIT KARYAWAN
                                         </a>

@@ -45,8 +45,8 @@
                                         <td class="col-1"><span>&nbsp;</span></td>
                                         <td class="col-2 text-start">
                                             <span>Kantor Pusat <br><br></span>
-                                            Jl. Fatahillah 5, Tompokersan <br>
-                                            Kec./Kab. Lumajang
+                                            jl. Fatahilah no. 5 RT.005 RW.016  <br>
+                                            kelurahan Tompokersan kecamatan Lumajang – Kabupaten Lumajang 67311
                                         </td>
                                         <td class="col-3">&nbsp;</td>
                                     </tr>
@@ -105,8 +105,8 @@
                                     <tr>
                                         <td><span>ALAMAT</span></td>
                                         <td>
-                                            Jl. Fatahillah 5, Tompokersan <br>
-                                            Kec./Kab. Lumajang
+                                        jl. Fatahilah no. 5 RT.005 RW.016 <br>
+                                        kelurahan Tompokersan kecamatan Lumajang – Kabupaten Lumajang 67311
                                         </td>
                                     </tr>
                                 </tbody>
