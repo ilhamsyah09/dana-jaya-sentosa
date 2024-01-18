@@ -14,7 +14,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.8s" dara-wow-offset="10">
-                                            <button class="btn green"  type="button"  onclick="window.location.href='#dana-mudah'">
+                                            <button class="btn green" type="button" onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -32,7 +32,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.8s" dara-wow-offset="10">
-                                            <button class="btn green"  type="button"  onclick="window.location.href='#dana-mudah'">
+                                            <button class="btn green" type="button" onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -58,7 +58,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.8s" dara-wow-offset="10">
-                                            <button class="btn green"  type="button"  onclick="window.location.href='#dana-mudah'">
+                                            <button class="btn green" type="button" onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -76,7 +76,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.8s" dara-wow-offset="10">
-                                            <button class="btn green"  type="button"  onclick="window.location.href='#dana-mudah'">
+                                            <button class="btn green" type="button" onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -102,7 +102,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.8s" dara-wow-offset="10">
-                                            <button class="btn green"  type="button"  onclick="window.location.href='#dana-mudah'">
+                                            <button class="btn green" type="button" onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -120,7 +120,7 @@
                                         <h3>Berani Untuk Sukses!</h3>
                                         <p>Kami akan bantu wujudkan mimpi anda menjadi peluang usaha sukses!</p>
                                         <div class="btn-wrapper d-flex align-items-center wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s" data-wow-duration="0.8s" dara-wow-offset="10">
-                                            <button class="btn green"  type="button"  onclick="window.location.href='#dana-mudah'">
+                                            <button class="btn green" type="button" onclick="window.location.href='#dana-mudah'">
                                                 AJUKAN PINJAMAN USAHA
                                             </button>
                                             <button class="btn orange" type="button" onclick="window.location.href='contact'">
@@ -267,19 +267,6 @@
                                             <h3>Simpanan Berjangka</h3>
                                             <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
                                             <a href="simpanan#simpanan-berjangka" class="nav-link d-flex align-items-center">
-                                                <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
-                                                PELAJARI LEBIH LANJUT
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="1.2s" data-wow-duration="1s">
-                                        <div class="img">
-                                            <img src="assets/images/home-images/icon6.jpg" class="" alt="">
-                                        </div>
-                                        <div class="right-caption">
-                                            <h3>Deposito</h3>
-                                            <p>Program simpanan deposito berbunga tinggi untuk periode 1 / 3 / 6 / 12 bulan</p>
-                                            <a href="simpanan#deposito" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
                                                 PELAJARI LEBIH LANJUT
                                             </a>

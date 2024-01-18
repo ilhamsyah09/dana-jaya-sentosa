@@ -45,7 +45,7 @@
                                         <td class="col-1"><span>&nbsp;</span></td>
                                         <td class="col-2 text-start">
                                             <span>Kantor Pusat <br><br></span>
-                                            jl. Fatahilah no. 5 RT.005 RW.016  <br>
+                                            jl. Fatahilah no. 5 RT.005 RW.016 <br>
                                             kelurahan Tompokersan kecamatan Lumajang – Kabupaten Lumajang 67311
                                         </td>
                                         <td class="col-3">&nbsp;</td>
@@ -64,7 +64,7 @@
                                     <tr>
                                         <td><span>ALAMAT</span></td>
                                         <td>PT. WDX <br>
-                                        Jl. Gubernur Suryo No.18, Lt. 3
+                                            Jl. Gubernur Suryo No.18, Lt. 3
                                             <br>Tompokersan, Kec./Kab. Lumajang
                                             <br> Jawa Timur 67316
                                         </td>
@@ -105,8 +105,8 @@
                                     <tr>
                                         <td><span>ALAMAT</span></td>
                                         <td>
-                                        jl. Fatahilah no. 5 RT.005 RW.016 <br>
-                                        kelurahan Tompokersan kecamatan Lumajang – Kabupaten Lumajang 67311
+                                            jl. Fatahilah no. 5 RT.005 RW.016 <br>
+                                            kelurahan Tompokersan kecamatan Lumajang – Kabupaten Lumajang 67311
                                         </td>
                                     </tr>
                                 </tbody>
@@ -185,13 +185,13 @@
                             <h3>Mari terhubung dengan social media Dana Jaya Sentosa untuk terus mengikuti aneka promo dan berita terkini!</h3>
                         </div>
                         <div class="wrapper_icon_sosmed d-flex align-items-center">
-                            <a href="https://www.instagram.com/ksp_danajayasentosa/" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="0.8s" data-wow-offset="10">
+                            <a target="_blank" href="https://www.instagram.com/ksp_danajayasentosa/" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="0.8s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-ig.png" class="img-fluid" alt="">
                             </a>
-                            <a href="https://www.facebook.com/profile.php?id=61550239521302" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="10">
+                            <a target="_blank" href="https://www.facebook.com/profile.php?id=61550239521302" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-fb.png" class="img-fluid" alt="">
                             </a>
-                            <a href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1.2s" data-wow-offset="10">
+                            <a target="_blank" href="#" class="nav-link wow animate__animated animate__fadeInUp" data-wow-delay="1.2s" data-wow-offset="10">
                                 <img src="assets/images/contact-images/icon-yt.png" class="img-fluid" alt="">
                             </a>
                         </div>
