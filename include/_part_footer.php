@@ -135,6 +135,25 @@
         </div>
     </div>
 </div>
+<div class="modal" tabindex="-1" id="simpananBerjangka" aria-labelledby="simpananBerjangkaLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <img src="assets/images/home-images/main-logo.png" class="img-fluid" alt="">
+            </div>
+            <div class="modal-body">
+                <h3>Download dan isi form, lalu kirimkan kembali form via Whatsapp ke Customer Service di: <a class="links_wa" target="_blank" href="https://wa.me/6281388831567">081388831567</a></h3>
+                <a target="_blank" href="doc/Rev-syarat dan ketentuan anggota, simpanan dan pinjaman.pdf" class="nav-link d-flex align-items-center">
+                    <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
+                    Download PDF
+                </a>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
 
 <style>
     .modal .modal-content a.links_wa {

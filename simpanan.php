@@ -166,7 +166,7 @@
                                                 <br>Individu yang menginginkan kepastian hasil investasi dalam jangka waktu tertentu, terutama bagi yang memiliki tujuan keuangan jangka menengah.
                                             </p>
                                         </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
+                                        <a href="#simpananBerjangka" data-bs-toggle="modal" data-bs-target="#simpananBerjangka" class="nav-link d-flex align-items-center">
                                             <img src="assets/images/home-images/icon-right.png" alt="">
                                             ISI FORM SIMPINAN BERJANGKA
                                         </a>
