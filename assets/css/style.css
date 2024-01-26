@@ -468,7 +468,7 @@ footer.footer .footer-content-top .list-nav {
     gap: 66px;
 }
 footer.footer .footer-content-top .list-nav .item {
-    flex-basis: 359px;
+    flex-basis: 380px;
     border-top: solid white 4px;
     padding-top: 30px;
 
@@ -496,7 +496,14 @@ footer.footer .footer-content-top .list-nav .item .phone p {
     font-size: 15px;
     font-weight: 400;
     color: white;
-    margin-bottom: 0;
+    margin-bottom: 8px;
+}
+footer.footer .footer-content-top .list-nav .item .number p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 8px;
 }
 footer.footer .footer-content-top .list-nav .item .address {
     padding-top: 39px;

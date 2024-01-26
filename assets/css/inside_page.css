@@ -238,6 +238,42 @@ section#contact {
 }
 /* edit other section */
 
+/* section kewajiban dan hak start */
+section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .box-caption h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .box-caption ol.kewajiban_anggota li {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.55;
+    color: #fff;   
+}
+
+section.inside_section_3.pg_kewajiban_hak {
+    padding-top: 5rem;
+}
+section.inside_section_3.pg_kewajiban_hak .inside-content .card-content {
+    width: 100%;
+    justify-content: flex-start;
+}
+section.inside_section_3.pg_kewajiban_hak .box-caption p {
+    margin-bottom: 1rem;
+}
+section.inside_section_3.pg_kewajiban_hak .box-caption ol.hak_anggota li {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.55;
+    color: #fff;   
+}
+
+/* section kewajiban dan hak end */
+
 @media (max-width: 1740px) {
     section.inside_section_1 .img-hero {
         width: 830px;
@@ -536,8 +572,17 @@ section#contact {
     section.inside_section_2 .inside_content_right.bg-dark-orange .box-caption p {
         font-size: 21px;
     }
+    section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .box-caption h3 {
+        font-size: 24px;
+    }
+    section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .box-caption ol.kewajiban_anggota li {
+        font-size: 16px;
+    }
 
 
+    section.inside_section_3.pg_kewajiban_hak .box-caption ol.hak_anggota li {
+        font-size: 16px;
+    }
     section.inside_section_3 .outer-content.list_card_description {
         padding-right: 0;
     }
@@ -685,6 +730,18 @@ section#contact {
     section.inside_section_2 .inside_content_right.bg-dark-orange .box-caption p {
         font-size: 16px;
     }
+    section.inside_section_2.pg_kewajiban_hak.bg-dark-orange {
+        background-color: #b86028;
+    }
+    section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .left-title {
+        padding: 0;
+    }
+    section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .box-caption h3 {
+        font-size: 18px;
+    }
+    section.inside_section_2.pg_kewajiban_hak.bg-dark-orange .box-caption ol.kewajiban_anggota li {
+        font-size: 14px;
+    }
 
 
     section.inside_section_3 .box-caption {
@@ -698,6 +755,12 @@ section#contact {
         font-size: 14px;
     }
     section.inside_section_3 .box-caption a.nav-link {
+        font-size: 14px;
+    }
+    section.inside_section_3.pg_kewajiban_hak .box-caption ol.hak_anggota {
+        padding-left: 1rem;
+    }
+    section.inside_section_3.pg_kewajiban_hak .box-caption ol.hak_anggota li {
         font-size: 14px;
     }
 }

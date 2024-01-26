@@ -27,6 +27,9 @@
                             <a href="about" class="nav-link">TENTANG KAMI</a>
                         </li>
                         <li class="nav-item animate__animated animate__fadeInDown delay-400ms">
+                            <a href="kewajiban&hak" class="nav-link">KEWAJIBAN & HAK ANGGOTA</a>
+                        </li>
+                        <li class="nav-item animate__animated animate__fadeInDown delay-400ms">
                             <a href="contact" class="nav-link">HUBUNGI KAMI</a>
                         </li>
                     </ul>
