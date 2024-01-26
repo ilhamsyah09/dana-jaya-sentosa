@@ -42,165 +42,42 @@
             </div>
         </section>
 
+        <?php
+        include 'incm/_data_simpanan.php';
+        ?>
+
         <section class="inside_section_3 pg_simpanan">
             <div class="custom container">
                 <div class="outer-content list_card_description">
-                    <div class="inside-content item" id="simpanan-sukarela">
-                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
-                            <h3>SIMPANAN SUKARELA</h3>
-                        </div>
-                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
-                            <div class="row g-0">
-                                <div class="col-md-6">
-                                    <img src="assets/images/simpanan-images/img-content1.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
-                                        <div class="text-top">
-                                            <h3>Simpanan berbunga dengan setoran awal yang sangat terjangkau, dimulai dari 15 ribu rupiah.</h3>
-                                            <p><span>Cocok untuk:</span>
-                                                <br>Individu yang ingin memulai kebiasaan menabung dengan mudah tanpa membebani keuangan mereka secara signifikan. Cocok untuk semua kalangan masyarakat.
-                                            </p>
+                    <?php foreach ($data as $key => $val_data) { ?>
+                        <div class="inside-content item" id="<?= $val_data['id'] ?>">
+                            <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
+                                <h3><?= $val_data['small_title'] ?></h3>
+                            </div>
+                            <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
+                                <div class="row g-0">
+                                    <div class="col-md-6">
+                                        <img src="assets/images/simpanan-images/<?= $val_data['img'] ?>" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
+                                            <div class="text-top">
+                                                <h3><?= $val_data['title'] ?></h3>
+                                                <p><?= substr(strip_tags($val_data['description']), 0, 200) . '...' ?></p>
+                                            </div>
+                                            <div class="to_block_desc d-none">
+                                                <?= $val_data['description'] ?>
+                                            </div>
+                                            <a href="#exampleModal_Sim" data-bs-toggle="modal" data-bs-target="#exampleModal_Sim" class="nav-link d-flex align-items-center" data-mod-title="<?= $val_data['small_title'] ?>">
+                                                <img src="assets/images/home-images/icon-right.png" alt="">
+                                                SELENGKAPNYA
+                                            </a>
                                         </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN SUKARELA
-                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="inside-content item" id="simpanan-hariraya">
-                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
-                            <h3>SIMPANAN HARI RAYA</h3>
-                        </div>
-                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
-                            <div class="row g-0">
-                                <div class="col-md-6">
-                                    <img src="assets/images/simpanan-images/img-content2.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
-                                        <div class="text-top">
-                                            <h3>Simpanan berbunga tinggi yang siap dipetik saat hari raya, dengan bonus hadiah parcel.</h3>
-                                            <p><span>Cocok untuk:</span>
-                                                <br>Individu yang ingin mengumpulkan dana khusus untuk merayakan momen penting seperti Hari Raya dan merasakan kegembiraan hadiah ekstra di momen spesial.
-                                            </p>
-                                        </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN HARI RAYA
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="inside-content item" id="simpanan-bisnis">
-                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
-                            <h3>SIMPANAN BISNIS</h3>
-                        </div>
-                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
-                            <div class="row g-0">
-                                <div class="col-md-6">
-                                    <img src="assets/images/simpanan-images/img-content3.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
-                                        <div class="text-top">
-                                            <h3>Simpanan menguntungkan berbunga agresif dengan setoran awal hanya sebesar 500 ribu rupiah.</h3>
-                                            <p><span>Cocok untuk:</span>
-                                                <br>Pengusaha kecil dan menengah yang mencari opsi menabung yang memberikan tingkat keuntungan yang lebih tinggi, bisa digunakan untuk nasabah yang ingin meningkatkan modal bisnis hanya dari sekedar menyisihkan penghasilan.
-                                            </p>
-                                        </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN BISNIS
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="inside-content item" id="simpanan-masa">
-                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
-                            <h3>SIMPANAN MASA</h3>
-                        </div>
-                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
-                            <div class="row g-0">
-                                <div class="col-md-6">
-                                    <img src="assets/images/simpanan-images/img-content4.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
-                                        <div class="text-top">
-                                            <h3>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan nikmati hasilnya dalam 6 bulan ke depan.</h3>
-                                            <p><span>Cocok untuk:</span>
-                                                <br>Mahasiswa, pekerja paruh waktu, atau siapa pun yang menginginkan fleksibilitas dalam menabung dengan setoran yang dapat disesuaikan dengan kondisi keuangan.
-                                            </p>
-                                        </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN MASA
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="inside-content item" id="simpanan-berjangka">
-                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
-                            <h3>SIMPANAN BERJANGKA</h3>
-                        </div>
-                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
-                            <div class="row g-0">
-                                <div class="col-md-6">
-                                    <img src="assets/images/simpanan-images/img-content5.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
-                                        <div class="text-top">
-                                            <h3>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah.</h3>
-                                            <p><span>Cocok untuk:</span>
-                                                <br>Individu yang menginginkan kepastian hasil investasi dalam jangka waktu tertentu, terutama bagi yang memiliki tujuan keuangan jangka menengah.
-                                            </p>
-                                        </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN BERJANGKA
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="inside-content item d-none" id="deposito">
-                        <div class="left-title wow animate__animated animate__fadeInLeft" data-wow-delay="0.5s">
-                            <h3>DEPOSITO</h3>
-                        </div>
-                        <div class="card-content bg-green wow animate__animated animate__fadeInUp" data-wow-delay="0.3s" data-wow-offset="10">
-                            <div class="row g-0">
-                                <div class="col-md-6">
-                                    <img src="assets/images/simpanan-images/img-content6.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="box-caption wow animate__animated animate__zoomIn" data-wow-delay="0.8s" data-wow-duration="0.8s" data-wow-offset="10">
-                                        <div class="text-top">
-                                            <h3>Program simpanan deposito berbunga tinggi untuk periode 1, 3, 6, atau 12 bulan.</h3>
-                                            <p><span>Cocok untuk:</span>
-                                                <br>Nasabah yang memiliki visi keuangan jangka panjang dan mencari instrumen investasi yang memberikan kestabilan dan keuntungan yang lebih tinggi.
-                                            </p>
-                                        </div>
-                                        <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal" class="nav-link d-flex align-items-center">
-                                            <img src="assets/images/home-images/icon-right.png" alt="">
-                                            ISI FORM SIMPINAN SUKARELA
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php } ?>
                 </div>
             </div>
         </section>
@@ -218,11 +95,53 @@
                                 HUBUNGI KAMI
                             </a>
                         </div>
-                    </div>  
+                    </div>
                 </div>
             </div>
         </section>
     </div>
+
+
+    <div class="modal" tabindex="-1" id="exampleModal_Sim" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg">
+            <div class="modal-content customs_modals">
+                <div class="modal-header d-flex">
+                    <div class="titles">
+                        <h3>FORMULIR PEMBUKAAN SIMPANAN SUKARELA</h3>
+                    </div>
+                    <div class="logo">
+                        <img src="assets/images/home-images/main-logo.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="block_description"></div>
+                    <h3>Download dan isi form, lalu kirimkan kembali form via Whatsapp ke Customer Service di: <a class="links_wa" target="_blank" href="https://wa.me/6281388831567">081388831567</a></h3>
+                    <a target="_blank" href="doc/formulir-pembukaan-simpanan.pdf" class="nav-link d-flex align-items-center">
+                        <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
+                        Download PDF
+                    </a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(function() {
+            // data-body-content
+            $('#exampleModal_Sim').on('show.bs.modal', function(event) {
+                var button = $(event.relatedTarget) // Button that triggered the modal
+                var bodyContent = button.parent().find('.to_block_desc').html() // Extract info from data-* attributes
+                var modalTitle = button.data('mod-title')
+                var modal = $(this)
+
+                modal.find('.modal-body .block_description').html(bodyContent)
+                modal.find('.modal-header .titles h3').html("FORMULIR PEMBUKAAN " + modalTitle)
+            })
+        });
+    </script>
     <?php include 'include/_part_footer.php' ?>
 </div>
 <?php include 'include/_footer.php' ?>

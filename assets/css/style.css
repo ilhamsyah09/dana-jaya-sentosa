@@ -1025,3 +1025,21 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
     width: 28px;
     height: 28px;
 }
+
+.modal-content.customs_modals{}
+.modal-content.customs_modals .modal-header{
+    align-items: flex-end;
+}
+.modal-content.customs_modals .modal-header h3,
+.modal-content.customs_modals .modal-header h2{
+    margin: 0;    
+    font-size: 17px;
+    font-weight: 700;
+}
+.modal-content.customs_modals .modal-body .block_description p{
+    margin-bottom: 20px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+}
+.modal-content.customs_modals{}
