@@ -58,7 +58,7 @@ $data = [
     [
         'id' => 'simpanan-hari-raya',
         'small_title' => 'SIMPANAN HARI RAYA',
-        'img' => 'img-content1.jpg',
+        'img' => 'hari-raya.jpg',
         'title' => 'Raih Kemenangan Idul Fitri dengan Simpanan Hari Raya',
         'description' => 'html description',
     ],
