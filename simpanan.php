@@ -87,7 +87,7 @@
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">
                         <div class="description wow animate__animated animate__fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s" data-wow-offset="10">
-                            <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
+                        <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
                         </div>
                         <div class="btn-contact wow animate__animated animate__fadeInLeft" data-wow-delay="1s" data-wow-duration="1.2s" data-wow-offset="20">
                             <a href="contact" class="nav-link d-flex align-items-center justify-content-center">

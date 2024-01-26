@@ -32,7 +32,7 @@
                             <a href="about" class="nav-link">TENTANG KAMI</a>
                         </li>
                         <li class="nav-item wow animate__animated animate__fadeInUp" data-wow-delay="1.1s" data-wow-offset="1">
-                            <a href="kewajiban&hak" class="nav-link">SYARAT & KETENTUAN</a>
+                            <a href="kewajiban" class="nav-link">SYARAT & KETENTUAN</a>
                         </li>
                         <li class="nav-item wow animate__animated animate__fadeInUp" data-wow-delay="1.1s" data-wow-offset="1">
                             <a href="contact" class="nav-link">HUBUNGI KAMI</a>
