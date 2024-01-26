@@ -465,7 +465,7 @@ footer.footer {
     padding-bottom: 80px;
 }
 footer.footer .footer-content-top .list-nav {
-    gap: 66px;
+    gap: 2rem;
 }
 footer.footer .footer-content-top .list-nav .item {
     flex-basis: 380px;

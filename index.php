@@ -212,7 +212,7 @@
                                             <img src="assets/images/home-images/icon1.jpg" class=d" alt="">
                                         </div>
                                         <div class="right-caption">
-                                            <h3>Simpanan Sukarela</h3>
+                                            <h3>Simpanan Berjangka</h3>
                                             <p>Simpanan berbunga dengan setoran awal mulai dari 15ribu rupiah!</p>
                                             <a href="simpanan#simpanan-sukarela" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
@@ -225,7 +225,7 @@
                                             <img src="assets/images/home-images/icon2.jpg" class="" alt="">
                                         </div>
                                         <div class="right-caption">
-                                            <h3>Simpanan Hari Raya</h3>
+                                            <h3>Simpanan Pendidikan</h3>
                                             <p>Simpanan berbunga tinggi siap dipetik saat hari raya dan berhadiah parcel!</p>
                                             <a href="simpanan#simpanan-hariraya" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
@@ -238,7 +238,7 @@
                                             <img src="assets/images/home-images/icon3.jpg" class="" alt="">
                                         </div>
                                         <div class="right-caption">
-                                            <h3>Simpanan Bisnis</h3>
+                                            <h3>Simpanan Hari Tua</h3>
                                             <p>Simpanan menguntungkan berbunga agresif dengan setoran awal hanya sebesar 500ribu rupiah</p>
                                             <a href="simpanan#simpanan-bisnis" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
@@ -251,7 +251,7 @@
                                             <img src="assets/images/home-images/icon4.jpg" class="" alt="">
                                         </div>
                                         <div class="right-caption">
-                                            <h3>Simpanan Masa</h3>
+                                            <h3>Simpanan </h3>
                                             <p>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan rasakan nikmatnya di 6 bulan ke depan!</p>
                                             <a href="simpanan#simpanan-masa" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
