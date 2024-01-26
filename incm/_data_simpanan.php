@@ -58,7 +58,7 @@ $data = [
     [
         'id' => 'simpanan-hari-raya',
         'small_title' => 'SIMPANAN HARI RAYA',
-        'img' => 'img-content1.jpg',
+        'img' => 'hari-raya.jpg',
         'title' => 'Raih Kemenangan Idul Fitri dengan Simpanan Hari Raya',
         'description' => '<p><br></p><table class="table table-bordered"><tbody><tr><td>PAKET&nbsp;</td><td>SETORAN PER HARI&nbsp;</td><td>SALDO TERAKHIR&nbsp;</td><td>PARCEL&nbsp;</td></tr><tr><td>A</td><td>10.000</td><td>3.300.000</td><td>BERAS 1Kg, GULA 1Kg, Minyak1 Lt.</td></tr><tr><td>B</td><td>15.000</td><td>4.950.000</td><td>BERAS 2Kg, GULA 1Kg, Minyak1 Lt.<br></td></tr><tr><td>C</td><td>20.000</td><td>6.600.000</td><td>BERAS 3Kg, GULA 1Kg, Minyak1 Lt.<br></td></tr><tr><td>D</td><td>25.000</td><td>8.250.000</td><td>BERAS 4Kg, GULA 1Kg, Minyak1 Lt.<br></td></tr><tr><td>E</td><td>30.000</td><td>9.900.000</td><td>BERAS 5Kg, GULA 1Kg, Minyak1 Lt.<br></td></tr></tbody></table><p>Keterangan:</p><ol><li>PEMBUKA SIMPANAN DIMULAI 01 MEI 2024 S/D 30 JUNI 2024</li><li>SETORAN SIMPANAN DIMULAI 01 MEI 2024 S/D 31 FEBRUARI 2024</li><li>SIMPANAN DIBAGIKAN PADA AWAL PUASA</li><li>UANG DIKEMBALIKAN PENUH DAN TIDAK MENDAPATKAN BUNGA</li><li>SETORAN WAJIB RUTIN SESUAI DENGAN PAKET YANG DIPILIH SAMPAI MENCAPAI MINIMAL SALDO Rp 3.300.000,- DALAM WAKTU 11 BULAN, APABILA SALDO DIBAWAH Rp 3.300.000,- DAN TIDAK RUTIN MAKA TIDAK MENDAPATKAN PARCEL.</li></ol>',
     ],
