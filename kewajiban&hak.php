@@ -11,8 +11,8 @@
                 <div class="inside-content">
                     <div class="right-caption wow animate__animated animate__fadeInRight" data-wow-delay="0.7s" data-wow-offset="10">
                         <h4>KEWAJIBAN DAN HAK ANGGOTA</h4>
-                        <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae corrupti quidem ipsam optio expedita laudantium, mollitia architecto blanditiis harum, nihil provident unde animi ea rem quas rerum, eveniet veritatis? Voluptatibus.
-                        </h3>
+                        <h3>
+                            Dalam koperasi, anggota memiliki hak untuk berpartisipasi dalam pengambilan keputusan dan mendapatkan bagian dari laba. Di sisi lain, kewajiban anggota mencakup kontribusi finansial dan ketaatan terhadap aturan koperasi.</h3>
                     </div>
                 </div>
             </div>
