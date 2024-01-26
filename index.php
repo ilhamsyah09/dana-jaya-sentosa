@@ -251,7 +251,7 @@
                                             <img src="assets/images/home-images/icon4.jpg" class="" alt="">
                                         </div>
                                         <div class="right-caption">
-                                            <h3>Simpanan </h3>
+                                            <h3>Simpanan Haji & Umroh</h3>
                                             <p>Setoran berbunga menarik dengan setoran awal paling rendah, mulai dari 5000 rupiah dan rasakan nikmatnya di 6 bulan ke depan!</p>
                                             <a href="simpanan#simpanan-masa" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
@@ -264,7 +264,7 @@
                                             <img src="assets/images/home-images/icon5.jpg" class="" alt="">
                                         </div>
                                         <div class="right-caption">
-                                            <h3>Simpanan Berjangka</h3>
+                                            <h3>Simpanan Eksekutif</h3>
                                             <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
                                             <a href="simpanan#simpanan-berjangka" class="nav-link d-flex align-items-center">
                                                 <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
@@ -272,6 +272,32 @@
                                             </a>
                                         </div>
                                     </div>
+                                    <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="1s" data-wow-duration="1s">
+                                    <div class="img">
+                                        <img src="assets/images/home-images/icon5.jpg" class="" alt="">
+                                    </div>
+                                    <div class="right-caption">
+                                        <h3>Simpanan Wirausaha Massa</h3>
+                                        <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
+                                        <a href="simpanan#simpanan-berjangka" class="nav-link d-flex align-items-center">
+                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                            PELAJARI LEBIH LANJUT
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="box-content d-flex align-items-start wow animate__animated animate__fadeInUp" data-wow-offset="2" data-wow-delay="1s" data-wow-duration="1s">
+                                    <div class="img">
+                                        <img src="assets/images/home-images/icon5.jpg" class="" alt="">
+                                    </div>
+                                    <div class="right-caption">
+                                        <h3>Simpanan Hari Raya</h3>
+                                        <p>Program simpanan berjangka paling menarik di Indonesia dengan setoran awal mulai dari 50,000 rupiah </p>
+                                        <a href="simpanan#simpanan-berjangka" class="nav-link d-flex align-items-center">
+                                            <img src="assets/images/home-images/icon-right.png" class="img-fluid" alt="">
+                                            PELAJARI LEBIH LANJUT
+                                        </a>
+                                    </div>
+                                </div>
                                 </div>
                             </div>
                         </div>
