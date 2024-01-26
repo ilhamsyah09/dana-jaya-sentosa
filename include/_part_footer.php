@@ -10,13 +10,6 @@
                     <div class="phone">
                         <p>T. +62 813 8883 1567</p>
                     </div>
-                    <div class="number">
-                        <p>KSP DANA JAYA SENTOSA KOPERASI TINGKAT KABUPATEN
-                            <br> BADAN HUKUM AHU-0001607.AH.01.29.TAHUN 2023
-                            <br> NIK 3508060020147
-                            <br> NIB 1210230052066
-                        </p>
-                    </div>
                 </div>
                 <div class="item wow animate__animated animate__fadeInUp" data-wow-delay="0.6s" data-wow-offset="10">
                     <h3>KANTOR PUSAT</h3>
@@ -39,11 +32,20 @@
                             <a href="about" class="nav-link">TENTANG KAMI</a>
                         </li>
                         <li class="nav-item wow animate__animated animate__fadeInUp" data-wow-delay="1.1s" data-wow-offset="1">
-                            <a href="kewajiban&hak" class="nav-link">KEWAJIBAN & HAK ANGGOTA</a>
+                            <a href="kewajiban&hak" class="nav-link">SYARAT & KETENTUAN</a>
                         </li>
                         <li class="nav-item wow animate__animated animate__fadeInUp" data-wow-delay="1.1s" data-wow-offset="1">
                             <a href="contact" class="nav-link">HUBUNGI KAMI</a>
                         </li>
+                    </div>
+                </div>
+                <div class="item wow animate__animated animate__fadeInUp" data-wow-delay="1s" data-wow-offset="10">
+                    <div class="number">
+                        <p>KSP DANA JAYA SENTOSA KOPERASI TINGKAT KABUPATEN
+                            <br> BADAN HUKUM AHU-0001607.AH.01.29.TAHUN 2023
+                            <br> NIK 3508060020147
+                            <br> NIB 1210230052066
+                        </p>
                     </div>
                 </div>
             </div>
