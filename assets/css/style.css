@@ -1037,12 +1037,14 @@ footer.footer .footer-content-bottom .inside-content .design-by p {
 .modal-content.customs_modals{}
 .modal-content.customs_modals .modal-header{
     align-items: flex-end;
+    background: #2a5b42;
 }
 .modal-content.customs_modals .modal-header h3,
 .modal-content.customs_modals .modal-header h2{
     margin: 0;    
     font-size: 17px;
     font-weight: 700;
+    color: #fff;
 }
 .modal-content.customs_modals .modal-body .block_description p{
     margin-bottom: 20px;
