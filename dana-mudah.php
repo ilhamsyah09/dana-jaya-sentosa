@@ -196,7 +196,7 @@
                         <ul>
                             <li>Pinjaman bagi Karyawan yang memiliki Pinjaman PKT.</li>
                             <li>Jangka Waktu Pinjaman 1 Bulan (sementara menunggu gajian).</li>
-                            <li>Biaya Adm = 9% dan Asuransi 1%. Total 10%</li>
+                            <li>Biaya Adm 9% dan Asuransi 1%. Total 10%</li>
                             <li>Jasa tidak ada = (0).</li>
                             <li>Angsuran Pokok + Jasa+ Kasbon maks 50% dari Penghasilan bersih.</li>
                         </ul>
@@ -230,9 +230,9 @@
                         <ul>
                             <li>Pinjaman dengan Jaminan Dana sendiri yang ada di KSP. Dana Jaya Sentosa</li>
                             <li>Besar Pinjaman maks 90% dari total Dana Simpanan Sukarela.</li>
-                            <li>Jangka Waktu 1 s/d 36 bulan...</li>
+                            <li>Jangka Waktu 1 s/d 36 bulan.</li>
                             <li>Biaya Adm; 2% Asuransi 0/nol.</li>
-                            <li>Jasa 2% perbulan. flat</li>
+                            <li>Jasa 2.5% perbulan. flat</li>
                             <li>Tiap bulan wajib bayar jasa (boleh sebagian / seluruhnya dari jasa simpanan) </li>
                         </ul>
                     </div>
@@ -332,7 +332,7 @@
                             <li>Pinjaman dengan Jaminan Assest (SHM, AJB).</li>
                             <li>Besar Pinjaman disesuaikan dengan penghasilan (angsuran maks 30%).</li>
                             <li>Jangka Waktu 2 s.d 24 bulan*</li>
-                            <li>Jasa 2,5 % per bulan. flat-</li>
+                            <li>Jasa 2,5 % per bulan. flat</li>
                             <li>Bagi Anggota yang sebelum pinjam sudah memiliki Simpanan Pokok Rp. 1.000.000,-. </li>
                         </ul>
                     </div>
@@ -363,12 +363,12 @@
                 <div class="modal-body">
                     <div class="block_description">
                         <ul>
-                            <li>Pinjaman Usaha hanya 1,Hari (dipinjam pagi, kembali sore).</li>
+                            <li>Pinjaman Usaha hanya (dipinjam pagi, kembali sore).</li>
                             <li>Untuk modal usaha dagang di pasar</li>
                             <li>Ada Jaminan Asset</li>
                             <li>Jasa 2,5 %. Flat</li>
                             <li>Bagi Anggota yang sebelum pinjam sudah memiliki Simpanan Pokok Rp. 1.000.000,-.</li>
-                            <li>Bersedia menabung/simpanan harian/mingguan di Koperasi* sebagai Simpanan Sukarela, Setor Simpanan dapat diantar langsung atau dijemput.</li>
+                            <li>Bersedia menabung/simpanan harian/mingguan di Koperasi Simpan Pinjam Dana Jaya Sentosa sebagai Simpanan Sukarela, Setor Simpanan dapat diantar langsung atau dijemput.</li>
                             <li>Angsuran Pokok dan Jasa dipotong setiap tanggal jatuh tempo setiap bulan dari Saldo Simpanan Sukarela.</li>
                         </ul>
                     </div>
