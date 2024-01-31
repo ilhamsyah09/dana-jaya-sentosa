@@ -197,7 +197,7 @@
                             <li>Pinjaman bagi Karyawan yang memiliki Pinjaman PKT.</li>
                             <li>Jangka Waktu Pinjaman 1 Bulan (sementara menunggu gajian).</li>
                             <li>Biaya Adm = 9% dan Asuransi 1%. Total 10%</li>
-                            <li>Jasa tidak ada != (0).</li>
+                            <li>Jasa tidak ada = (0).</li>
                             <li>Angsuran Pokok + Jasa+ Kasbon maks 50% dari Penghasilan bersih.</li>
                         </ul>
                     </div>
@@ -233,7 +233,7 @@
                             <li>Jangka Waktu 1 s/d 36 bulan...</li>
                             <li>Biaya Adm; 2% Asuransi 0/nol.</li>
                             <li>Jasa 2% perbulan. flat</li>
-                            <li>Tiap butan wajib bayar jasa (boleh sebagian / seluruhnya dari jasa simpanan) </li>
+                            <li>Tiap bulan wajib bayar jasa (boleh sebagian / seluruhnya dari jasa simpanan) </li>
                         </ul>
                     </div>
                     <h3>Download dan isi form, lalu kirimkan kembali form via Whatsapp ke Customer Service di: <a class="links_wa" target="_blank" href="https://wa.me/6281388831567">081388831567</a></h3>
@@ -263,7 +263,8 @@
                 <div class="modal-body">
                     <div class="block_description">
                         <ul>
-                            <li>Pinjaman bagi Karyawan tetap dan Gajian sudah Payroll. Jangka Waktu, 2 s/d 24 Bulan.</li>
+                            <li>Pinjaman bagi Karyawan tetap dan Gajian sudah Payroll. Jangka Waktu,</li>
+                            <li>Jangka Waktu, 2 s/d 24 Bulan.</li>
                             <li>Angsuran Pokok + Jasa per bulan maks 0% dari Penghasilan bersih rata-rata 3 bulan terakhir.</li>
                             <li>Jasa minimal 2,5 % per bulan. flat,<br><br></li>
                         </ul>
@@ -295,7 +296,8 @@
                 <div class="modal-body">
                     <div class="block_description">
                         <ul>
-                            <li>Pinjaman bagi Karyawan tetap dan Gajian sudah Payroll. Jangka Waktu, 2 s/d 24 Bulan.</li>
+                            <li>Pinjaman bagi Karyawan tetap dan Gajian sudah Payroll. Jangka Waktu,</li>
+                            <li>Jangka Waktu, 2 s/d 24 Bulan.</li>
                             <li>Angsuran Pokok + Jasa per bulan maks 0% dari Penghasilan bersih rata-rata 3 bulan terakhir.</li>
                             <li>Jasa minimal 2,5 % per bulan. flat,<br><br></li>
                         </ul>
@@ -330,7 +332,7 @@
                             <li>Pinjaman dengan Jaminan Assest (SHM, AJB).</li>
                             <li>Besar Pinjaman disesuaikan dengan penghasilan (angsuran maks 30%).</li>
                             <li>Jangka Waktu 2 s.d 24 bulan*</li>
-                            <li>Jasa 2,5 % per bulan. -Vat-</li>
+                            <li>Jasa 2,5 % per bulan. flat-</li>
                             <li>Bagi Anggota yang sebelum pinjam sudah memiliki Simpanan Pokok Rp. 1.000.000,-. </li>
                         </ul>
                     </div>
@@ -364,7 +366,7 @@
                             <li>Pinjaman Usaha hanya 1,Hari (dipinjam pagi, kembali sore).</li>
                             <li>Untuk modal usaha dagang di pasar</li>
                             <li>Ada Jaminan Asset</li>
-                            <li>Jasa 2,5 % Flat.5</li>
+                            <li>Jasa 2,5 %. Flat</li>
                             <li>Bagi Anggota yang sebelum pinjam sudah memiliki Simpanan Pokok Rp. 1.000.000,-.</li>
                             <li>Bersedia menabung/simpanan harian/mingguan di Koperasi* sebagai Simpanan Sukarela, Setor Simpanan dapat diantar langsung atau dijemput.</li>
                             <li>Angsuran Pokok dan Jasa dipotong setiap tanggal jatuh tempo setiap bulan dari Saldo Simpanan Sukarela.</li>
