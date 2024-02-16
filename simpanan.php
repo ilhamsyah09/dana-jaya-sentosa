@@ -68,9 +68,6 @@
                                             <div class="to_block_desc d-none">
                                                 <?= $val_data['description'] ?>
                                             </div>
-                                            <div class="brosur-content d-none">
-                                                <?= $val_data['brosur'] ?>
-                                            </div>
                                             <a href="#exampleModal_Sim" data-bs-toggle="modal" data-bs-target="#exampleModal_Sim" class="nav-link d-flex align-items-center" data-mod-title="<?= $val_data['small_title'] ?>">
                                                 <img src="assets/images/home-images/icon-right.png" alt="">
                                                 SELENGKAPNYA
@@ -90,7 +87,7 @@
                 <div class="outer-content">
                     <div class="inside-content d-flex align-item-center">
                         <div class="description wow animate__animated animate__fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s" data-wow-offset="10">
-                            <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
+                        <h3>Tim konsultan keuangan kami berkomitmen untuk memberi solusi terbaik dalam mewujudkan kesuksesan atau mengelola dana usaha anda, kami hanya sejauh ketukan jari!</h3>
                         </div>
                         <div class="btn-contact wow animate__animated animate__fadeInLeft" data-wow-delay="1s" data-wow-duration="1.2s" data-wow-offset="20">
                             <a href="contact" class="nav-link d-flex align-items-center justify-content-center">
@@ -119,13 +116,10 @@
                 <div class="modal-body">
                     <div class="block_description"></div>
                     <h3>Download dan isi form, lalu kirimkan kembali form via Whatsapp ke Customer Service di: <a class="links_wa" target="_blank" href="https://wa.me/6281388831567">081388831567</a></h3>
-                    <div class="link_download d-flex align-items-center gap-3">
-                        <a target="_blank" href="doc/formulir-pembukaan-simpanan.pdf" class="nav-link d-flex align-items-center">
-                            <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
-                            Download PDF
-                        </a>
-                        <div class="brosur"></div>
-                    </div>
+                    <a target="_blank" href="doc/formulir-pembukaan-simpanan.pdf" class="nav-link d-flex align-items-center">
+                        <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
+                        Download PDF
+                    </a>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -140,12 +134,10 @@
             $('#exampleModal_Sim').on('show.bs.modal', function(event) {
                 var button = $(event.relatedTarget) // Button that triggered the modal
                 var bodyContent = button.parent().find('.to_block_desc').html() // Extract info from data-* attributes
-                var brosurContent = button.parent().find('.brosur-content').html(); // Extract info for brosur
                 var modalTitle = button.data('mod-title')
                 var modal = $(this)
 
                 modal.find('.modal-body .block_description').html(bodyContent)
-                modal.find('.modal-body .brosur').html(brosurContent); // Set brosur content
                 modal.find('.modal-header .titles h3').html("FORMULIR PEMBUKAAN " + modalTitle)
             })
         });
