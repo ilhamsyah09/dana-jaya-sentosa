@@ -102,7 +102,7 @@ $data = [
         'small_title' => 'SIMPANAN WAJIB',
         'img' => 'wajib.jpg',
         'title' => 'SIMPANAN WAJIB',
-        'description' => '<div><>Simpanan yang disetorkan setiap bulan pada saat menjadi anggota koperasi. Nominalnya sesuai  grade</ div><div>yang dipilih.</div></div><div><br></div><div class="table-responsive"><table class="table table-bordered"><tbody><tr><td> GRADE A </td><td>Rp. 100.000,-<br></td></tr><tr><td> GRADE B <br></td><td>Rp. 250.000,-<br></td></tr><tr><td> GRADE C <br></td><td>Rp. 500.000,-<br></td></tr><tr><td> GRADE D <br></td><td>Rp. 1.000.000,-<br></td></tr><tr><td> GRADE E <br></td><td>Rp. 5.000.000,-<br></td></tr><tr><td> GRADE F <br></td><td>0</td></tr></tbody></table></div><p>
+        'description' => '<div><>Simpanan yang disetorkan setiap bulan pada saat menjadi anggota koperasi. Nominalnya sesuai  grade </ div><div>yang dipilih.</div></div><div><br></div><div class="table-responsive"><table class="table table-bordered"><tbody><tr><td> GRADE A </td><td>Rp. 100.000,-<br></td></tr><tr><td> GRADE B <br></td><td>Rp. 250.000,-<br></td></tr><tr><td> GRADE C <br></td><td>Rp. 500.000,-<br></td></tr><tr><td> GRADE D <br></td><td>Rp. 1.000.000,-<br></td></tr><tr><td> GRADE E <br></td><td>Rp. 5.000.000,-<br></td></tr><tr><td> GRADE F <br></td><td>0</td></tr></tbody></table></div><p>
         Simpanan dibayarkan tanpa bunga dan potongan pajak jika anggota keluar. Dan dibayarkan ke ahli
     waris jika anggota meninggal. Dibayarkan sekaligus dengan Simpanan Pokok.</p>',
         'brosur' => '<a target="_blank" download="doc/simpanan_pokok_wajib_sukarela.pdf" href="doc/simpanan_pokok_wajib_sukarela.pdf" class="nav-link d-flex align-items-center">
