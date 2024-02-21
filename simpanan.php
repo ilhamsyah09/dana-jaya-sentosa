@@ -120,7 +120,7 @@
                     <div class="block_description"></div>
                     <h3>Download dan isi form, lalu kirimkan kembali form via Whatsapp ke Customer Service di: <a class="links_wa" target="_blank" href="https://wa.me/6281388831567">081388831567</a></h3>
                     <div class="link_download d-flex align-items-center gap-3">
-                        <a target="_blank" href="doc/formulir-pembukaan-simpanan.pdf" class="nav-link d-flex align-items-center">
+                        <a target="_blank" href="doc/formulir_simpanan.pdf" class="nav-link d-flex align-items-center">
                             <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
                             Download PDF
                         </a>
