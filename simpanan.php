@@ -122,7 +122,7 @@
                     <div class="link_download d-flex align-items-center gap-3">
                         <a target="_blank" href="doc/formulir_simpanan.pdf" class="nav-link d-flex align-items-center">
                             <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
-                            Download PDF
+                            Download Formulir
                         </a>
                         <div class="brosur"></div>
                     </div>
