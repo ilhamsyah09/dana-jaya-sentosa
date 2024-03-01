@@ -1517,7 +1517,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         SBP 250
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         SBP 300
                     </p>
@@ -1559,7 +1559,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         250.000
                     </p>
                 </td>
-                <td " valign="top">
+                <td  valign="top">
                     <p>
                         500.000
                     </p>
@@ -1606,7 +1606,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         10.382.184
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         20.764.368
                     </p>
@@ -1653,7 +1653,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         14.559.504
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         29.119.008
                     </p>
@@ -1700,7 +1700,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         19.155.975
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         38.311.950
                     </p>
@@ -1747,7 +1747,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         24.213.636
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         48.427.272
                     </p>
@@ -1794,7 +1794,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         29.778.777
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         59.557.554
                     </p>
@@ -1841,7 +1841,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         35.902.344
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         71.804.688
                     </p>
@@ -1888,7 +1888,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         42.640.317
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         85.280.634
                     </p>
@@ -1935,7 +1935,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         50.054.370
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         100.108.740
                     </p>
@@ -1982,7 +1982,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         58.212.330
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         116.424.660
                     </p>
@@ -2029,7 +2029,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         67.188.888
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         134.377.776
                     </p>
@@ -2076,7 +2076,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         77.066.106
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         154.132.212
                     </p>
@@ -2123,7 +2123,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         87.934.392
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         175.868.784
                     </p>
@@ -2170,7 +2170,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         99.893.205
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         199.786.410
                     </p>
@@ -2217,7 +2217,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         113.051.952
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         226.103.904
                     </p>
@@ -2264,7 +2264,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         127.531.008
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         255.062.016
                     </p>
@@ -2311,7 +2311,7 @@ TABEL SIMPANAN BERJANGKA</p>
                         143.462.880
                     </p>
                 </td>
-                <td " valign="top">
+                <td valign="top">
                     <p>
                         286.925.760
                     </p>
