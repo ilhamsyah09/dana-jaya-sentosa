@@ -113,7 +113,7 @@ TABEL SIMPANAN BERJANGKA</p>
         'small_title' => 'SIMPANAN HARI RAYA',
         'img' => 'hari-raya.jpg',
         'title' => 'Raih Kemenangan Idul Fitri dengan Simpanan Hari Raya',
-        'description' => '<p><br></p><p>Keterangan:</p><ol><li>PEMBUKAAN SIMPANAN DIMULAI 01 MEI 2024 S/D 30 JUNI 2024</li><li>SETORAN SIMPANAN DIMULAI 01 MEI 2024 S/D 28 FEBRUARI 2025</li><li>SIMPANAN DIBAGIKAN PADA AWAL PUASA</li><li>UANG DIKEMBALIKAN PENUH DAN TIDAK MENDAPATKAN BUNGA</li><li>SETORAN WAJIB RUTIN SESUAI DENGAN PAKET YANG DIPILIH SAMPAI MENCAPAI MINIMAL SALDO Rp 3.300.000,- DALAM WAKTU 11 BULAN, APABILA SALDO DIBAWAH Rp 3.300.000,- DAN TIDAK RUTIN MAKA TIDAK MENDAPATKAN PARCEL.</li></ol>',
+        'description' => '<p><br></p><p>Keterangan:</p><ol><li>PEMBUKAAN SIMPANAN DIMULAI 01 MEI 2024 S/D 30 JUNI 2024</li><li>SETORAN SIMPANAN DIMULAI 01 MEI 2024 S/D 28 FEBRUARI 2025</li><li>SIMPANAN DIBAGIKAN PADA AWAL PUASA</li><li>UANG DIKEMBALIKAN PENUH DAN TIDAK MENDAPATKAN BUNGA</li><li>SETORAN WAJIB RUTIN SESUAI DENGAN PAKET YANG DIPILIH SAMPAI MENCAPAI MINIMAL SALDO Rp. 4.950.000,- DALAM WAKTU 11 BULAN, APABILA SALDO DIBAWAH Rp. 4.950.000,- DAN TIDAK RUTIN MAKA TIDAK MENDAPATKAN PARCEL.</li></ol>',
         'brosur' => '<a target="_blank" download="doc/new-flyer/simpanan_hari_raya.pdf" href="doc/new-flyer/simpanan_hari_raya.pdf" class="nav-link d-flex align-items-center">
         <img src="assets/images/home-images/icons8-pdf-48.png" class="img-fluid" alt="">
         Download Brosur</a>',
