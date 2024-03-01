@@ -71,6 +71,9 @@
                                             <div class="brosur-content d-none">
                                                 <?= $val_data['brosur'] ?>
                                             </div>
+                                            <div class="table-simpanan d-none">
+                                                <?= $val_data['table'] ?>
+                                            </div>
                                             <a href="#exampleModal_Sim" data-bs-toggle="modal" data-bs-target="#exampleModal_Sim" class="nav-link d-flex align-items-center" data-mod-title="<?= $val_data['small_title'] ?>">
                                                 <img src="assets/images/home-images/icon-right.png" alt="">
                                                 SELENGKAPNYA
@@ -125,6 +128,7 @@
                             Download Formulir
                         </a>
                         <div class="brosur"></div>
+                        <div class="download_table"></div>
                     </div>
                 </div>
                 <div class="modal-footer">
@@ -141,11 +145,13 @@
                 var button = $(event.relatedTarget) // Button that triggered the modal
                 var bodyContent = button.parent().find('.to_block_desc').html() // Extract info from data-* attributes
                 var brosurContent = button.parent().find('.brosur-content').html();
+                var tableSimpanan = button.parent().find('.table-simpanan').html();
                 var modalTitle = button.data('mod-title')
                 var modal = $(this)
 
                 modal.find('.modal-body .block_description').html(bodyContent)
                 modal.find('.modal-body .brosur').html(brosurContent);
+                modal.find('.modal-body .download_table').html(tableSimpanan);
                 modal.find('.modal-header .titles h3').html("FORMULIR PEMBUKAAN " + modalTitle)
             })
         });
